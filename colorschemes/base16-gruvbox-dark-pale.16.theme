@@ -3,4 +3,4 @@ Name=Base16-Gruvbox dark, pale.16
 ColorForeground=#dab997
 ColorBackground=#262626
 ColorCursor=#dab997
-ColorPalette=#262626;#d75f5f;#afaf00;#ffaf00;#83adad;#d485ad;#85ad85;#dab997;#8a8a8a;#ff8700;#3a3a3a;#4e4e4e;#949494;#d5c4a1;#d65d0e;#ebdbb2
+ColorPalette=#3a3a3a;#d75f5f;#afaf00;#ffaf00;#83adad;#d65d0e;#85ad85;#d5c4a1;#262626;#ff8700;#4e4e4e;#8a8a8a;#949494;#d485ad;#dab997;#ebdbb2

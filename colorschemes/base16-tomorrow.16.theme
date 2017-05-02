@@ -3,4 +3,4 @@ Name=Base16-Tomorrow.16
 ColorForeground=#4d4d4c
 ColorBackground=#ffffff
 ColorCursor=#4d4d4c
-ColorPalette=#ffffff;#c82829;#718c00;#eab700;#4271ae;#8959a8;#3e999f;#4d4d4c;#8e908c;#f5871f;#e0e0e0;#d6d6d6;#969896;#282a2e;#a3685a;#1d1f21
+ColorPalette=#e0e0e0;#c82829;#718c00;#eab700;#4271ae;#a3685a;#3e999f;#282a2e;#ffffff;#f5871f;#d6d6d6;#8e908c;#969896;#8959a8;#4d4d4c;#1d1f21
