@@ -8,4 +8,6 @@ Put the built ``*.theme`` files from ``colorschemes/`` into ``~/.local/share/xfc
 
 ## Manual building
 
-A ``builder`` like [this](https://github.com/chriskempson/base16-builder-php) is required
+A ``builder`` like [this](https://github.com/chriskempson/base16-builder-php) is required.
+
+Or use build.py.

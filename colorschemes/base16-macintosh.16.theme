@@ -2,5 +2,5 @@
 Name=Base16-Macintosh.16
 ColorForeground=#c0c0c0
 ColorBackground=#000000
-ColorCursor=#c0c0c0
+ColorCursor=x
 ColorPalette=#404040;#dd0907;#1fb714;#fbf305;#0000d3;#90713a;#02abea;#c0c0c0;#000000;#ff6403;#404040;#808080;#808080;#4700a5;#c0c0c0;#ffffff

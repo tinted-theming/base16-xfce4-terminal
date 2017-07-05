@@ -2,5 +2,5 @@
 Name=Base16-Gruvbox dark, soft.16
 ColorForeground=#d5c4a1
 ColorBackground=#32302f
-ColorCursor=#d5c4a1
+ColorCursor=x
 ColorPalette=#3c3836;#fb4934;#b8bb26;#fabd2f;#83a598;#d65d0e;#8ec07c;#ebdbb2;#32302f;#fe8019;#504945;#665c54;#bdae93;#d3869b;#d5c4a1;#fbf1c7
