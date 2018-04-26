@@ -1,6 +1,6 @@
 [Scheme]
 Name=Base16-Icy Dark
-ColorForeground=#bdbdbd
-ColorBackground=#222222
+ColorForeground=#095b67
+ColorBackground=#021012
 ColorCursor=x
-ColorPalette=#222222;#0097a7;#26c6da;#00bcd4;#80deea;#b3ebf2;#4dd0e1;#bdbdbd;#757575;#0097a7;#26c6da;#00bcd4;#80deea;#b3ebf2;#4dd0e1;#eeeeee
+ColorPalette=#021012;#16c1d9;#4dd0e1;#80deea;#00bcd4;#00acc1;#26c6da;#095b67;#052e34;#16c1d9;#4dd0e1;#80deea;#00bcd4;#00acc1;#26c6da;#109cb0
