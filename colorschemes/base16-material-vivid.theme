@@ -1,6 +1,6 @@
 [Scheme]
 Name=Base16-Material Vivid
-ColorForeground=#B0BEC5
-ColorBackground=#263238
+ColorForeground=#80868b
+ColorBackground=#202124
 ColorCursor=x
-ColorPalette=#263238;#FF1744;#00E676;#FFC400;#2979FF;#651FFF;#00B0FF;#B0BEC5;#546E7A;#FF1744;#00E676;#FFC400;#2979FF;#651FFF;#00B0FF;#ECEFF1
+ColorPalette=#202124;#f44336;#00e676;#ffeb3b;#2196f3;#673ab7;#00bcd4;#80868b;#44464d;#f44336;#00e676;#ffeb3b;#2196f3;#673ab7;#00bcd4;#ffffff
