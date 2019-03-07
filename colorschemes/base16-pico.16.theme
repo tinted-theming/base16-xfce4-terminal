@@ -3,4 +3,5 @@ Name=Base16-Pico.16
 ColorForeground=#5f574f
 ColorBackground=#000000
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#1d2b53;#ff004d;#00e756;#fff024;#83769c;#ffccaa;#29adff;#c2c3c7;#000000;#ffa300;#7e2553;#008751;#ab5236;#ff77a8;#5f574f;#fff1e8

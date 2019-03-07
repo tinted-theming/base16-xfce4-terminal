@@ -3,4 +3,5 @@ Name=Base16-Atelier Cave.16
 ColorForeground=#8b8792
 ColorBackground=#19171c
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#26232a;#be4678;#2a9292;#a06e3b;#576ddb;#bf40bf;#398bc6;#e2dfe7;#19171c;#aa573c;#585260;#655f6d;#7e7887;#955ae7;#8b8792;#efecf4

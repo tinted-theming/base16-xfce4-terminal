@@ -3,4 +3,5 @@ Name=Base16-Material Vivid.16
 ColorForeground=#80868b
 ColorBackground=#202124
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#27292c;#f44336;#00e676;#ffeb3b;#2196f3;#8d6e63;#00bcd4;#9e9e9e;#202124;#ff9800;#323639;#44464d;#676c71;#673ab7;#80868b;#ffffff

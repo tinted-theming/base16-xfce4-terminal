@@ -3,4 +3,5 @@ Name=Base16-Atelier Estuary.16
 ColorForeground=#929181
 ColorBackground=#22221b
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#302f27;#ba6236;#7d9726;#a5980d;#36a166;#9d6c7c;#5b9d48;#e7e6df;#22221b;#ae7313;#5f5e4e;#6c6b5a;#878573;#5f9182;#929181;#f4f3ec

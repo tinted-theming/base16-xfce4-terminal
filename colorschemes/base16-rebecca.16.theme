@@ -3,4 +3,5 @@ Name=Base16-Rebecca.16
 ColorForeground=#f1eff8
 ColorBackground=#292a44
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#663399;#a0a0c5;#6dfedf;#ae81ff;#2de0a7;#ff79c6;#8eaee0;#ccccff;#292a44;#efe4a1;#383a62;#666699;#a0a0c5;#7aa5ff;#f1eff8;#53495d

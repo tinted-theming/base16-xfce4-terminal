@@ -3,4 +3,5 @@ Name=Base16-Atelier Savanna.16
 ColorForeground=#87928a
 ColorBackground=#171c19
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#232a25;#b16139;#489963;#a07e3b;#478c90;#867469;#1c9aa0;#dfe7e2;#171c19;#9f713c;#526057;#5f6d64;#78877d;#55859b;#87928a;#ecf4ee

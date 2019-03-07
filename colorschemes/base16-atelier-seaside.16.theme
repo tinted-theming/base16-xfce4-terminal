@@ -3,4 +3,5 @@ Name=Base16-Atelier Seaside.16
 ColorForeground=#8ca68c
 ColorBackground=#131513
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#242924;#e6193c;#29a329;#98981b;#3d62f5;#e619c3;#1999b3;#cfe8cf;#131513;#87711d;#5e6e5e;#687d68;#809980;#ad2bee;#8ca68c;#f4fbf4

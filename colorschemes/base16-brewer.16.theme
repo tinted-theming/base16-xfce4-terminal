@@ -3,4 +3,5 @@ Name=Base16-Brewer.16
 ColorForeground=#b7b8b9
 ColorBackground=#0c0d0e
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#2e2f30;#e31a1c;#31a354;#dca060;#3182bd;#b15928;#80b1d3;#dadbdc;#0c0d0e;#e6550d;#515253;#737475;#959697;#756bb1;#b7b8b9;#fcfdfe

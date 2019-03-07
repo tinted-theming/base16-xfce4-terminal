@@ -3,4 +3,5 @@ Name=Base16-IR Black.16
 ColorForeground=#b5b3aa
 ColorBackground=#000000
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#242422;#ff6c60;#a8ff60;#ffffb6;#96cbfe;#b18a3d;#c6c5fe;#d9d7cc;#000000;#e9c062;#484844;#6c6c66;#918f88;#ff73fd;#b5b3aa;#fdfbee

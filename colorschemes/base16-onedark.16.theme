@@ -3,4 +3,5 @@ Name=Base16-OneDark.16
 ColorForeground=#abb2bf
 ColorBackground=#282c34
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#353b45;#e06c75;#98c379;#e5c07b;#61afef;#be5046;#56b6c2;#b6bdca;#282c34;#d19a66;#3e4451;#545862;#565c64;#c678dd;#abb2bf;#c8ccd4

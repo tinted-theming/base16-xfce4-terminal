@@ -3,4 +3,5 @@ Name=Base16-Green Screen
 ColorForeground=#00bb00
 ColorBackground=#001100
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#001100;#007700;#00bb00;#007700;#009900;#00bb00;#005500;#00bb00;#007700;#007700;#00bb00;#007700;#009900;#00bb00;#005500;#00ff00

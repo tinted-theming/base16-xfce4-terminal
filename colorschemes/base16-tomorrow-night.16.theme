@@ -3,4 +3,5 @@ Name=Base16-Tomorrow Night.16
 ColorForeground=#c5c8c6
 ColorBackground=#1d1f21
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#282a2e;#cc6666;#b5bd68;#f0c674;#81a2be;#a3685a;#8abeb7;#e0e0e0;#1d1f21;#de935f;#373b41;#969896;#b4b7b4;#b294bb;#c5c8c6;#ffffff

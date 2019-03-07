@@ -3,4 +3,5 @@ Name=Base16-Eighties.16
 ColorForeground=#d3d0c8
 ColorBackground=#2d2d2d
 ColorCursor=x
+ColorBoldIsBright=FALSE
 ColorPalette=#393939;#f2777a;#99cc99;#ffcc66;#6699cc;#d27b53;#66cccc;#e8e6df;#2d2d2d;#f99157;#515151;#747369;#a09f93;#cc99cc;#d3d0c8;#f2f0ec
