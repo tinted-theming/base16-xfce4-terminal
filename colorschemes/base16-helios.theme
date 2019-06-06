@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Helios
+ColorForeground=#d5d5d5
+ColorBackground=#1d2021
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#1d2021;#d72638;#88b92d;#f19d1a;#1e8bac;#be4264;#1ba595;#d5d5d5;#6f7579;#d72638;#88b92d;#f19d1a;#1e8bac;#be4264;#1ba595;#e5e5e5
