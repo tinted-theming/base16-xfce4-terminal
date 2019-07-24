@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Espresso.16
+ColorForeground=#cccccc
+ColorBackground=#2d2d2d
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#393939;#d25252;#a5c261;#ffc66d;#6c99bb;#f97394;#bed6ff;#e0e0e0;#2d2d2d;#f9a959;#515151;#777777;#b4b7b4;#d197d9;#cccccc;#ffffff

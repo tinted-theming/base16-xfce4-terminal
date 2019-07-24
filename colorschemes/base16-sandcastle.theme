@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Sandcastle
+ColorForeground=#a89984
+ColorBackground=#282c34
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#282c34;#83a598;#528b8b;#a07e3b;#83a598;#d75f5f;#83a598;#a89984;#665c54;#83a598;#528b8b;#a07e3b;#83a598;#d75f5f;#83a598;#fdf4c1

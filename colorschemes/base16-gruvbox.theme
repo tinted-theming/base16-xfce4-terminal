@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Gruvbox light, soft
+ColorForeground=#504945
+ColorBackground=#f2e5bc
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#f2e5bc;#9d0006;#79740e;#b57614;#076678;#8f3f71;#427b58;#504945;#bdae93;#9d0006;#79740e;#b57614;#076678;#8f3f71;#427b58;#282828

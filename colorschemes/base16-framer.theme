@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Framer
+ColorForeground=#D0D0D0
+ColorBackground=#181818
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#181818;#FD886B;#32CCDC;#FECB6E;#20BCFC;#BA8CFC;#ACDDFD;#D0D0D0;#747474;#FD886B;#32CCDC;#FECB6E;#20BCFC;#BA8CFC;#ACDDFD;#EEEEEE

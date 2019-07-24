@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-PaperColor Light.16
+ColorForeground=#878787
+ColorBackground=#eeeeee
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#af0000;#bcbcbc;#8700af;#d70087;#d75f00;#005f87;#d75f00;#005f87;#eeeeee;#d70000;#008700;#5f8700;#0087af;#005faf;#878787;#444444

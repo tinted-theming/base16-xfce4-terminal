@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Decaf
+ColorForeground=#cccccc
+ColorBackground=#2d2d2d
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2d2d2d;#ff7f7b;#beda78;#ffd67c;#90bee1;#efb3f7;#bed6ff;#cccccc;#777777;#ff7f7b;#beda78;#ffd67c;#90bee1;#efb3f7;#bed6ff;#ffffff

@@ -8,6 +8,6 @@ Put the prebuilt ``*.theme`` files from ``colorschemes/`` into ``~/.local/share/
 
 ## Manual building
 
-If you want to build the themes under ``colorschemes/`` yourself, 
+If you want to build the themes under ``colorschemes/`` yourself,
 a ``builder`` like [this](https://github.com/chriskempson/base16-builder-php) is required,
-or use ``build.py``.
+or use ``build.go``.
