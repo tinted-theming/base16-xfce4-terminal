@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Gigavolt.16
+ColorForeground=##e9e7e1
+ColorBackground=##202126
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=##2d303d;##ff661a;##f2e6a9;##ffdc2d;##40bfff;##6187ff;##fb6acb;##eff0f9;##202126;##19f988;##5a576e;##a1d2e6;##cad3ff;##ae94f9;##e9e7e1;##f2fbff
