@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Edge Light
+ColorForeground=#5e646f
+ColorBackground=#fafafa
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#fafafa;#db7070;#7c9f4b;#d69822;#6587bf;#b870ce;#509c93;#5e646f;#5e646f;#db7070;#7c9f4b;#d69822;#6587bf;#b870ce;#509c93;#5e646f
