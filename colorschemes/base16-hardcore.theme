@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Hardcore
+ColorForeground=#cdcdcd
+ColorBackground=#212121
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#212121;#f92672;#a6e22e;#e6db74;#66d9ef;#9e6ffe;#708387;#cdcdcd;#4A4A4A;#f92672;#a6e22e;#e6db74;#66d9ef;#9e6ffe;#708387;#ffffff
