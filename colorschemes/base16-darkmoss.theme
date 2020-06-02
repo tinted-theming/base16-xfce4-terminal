@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-darkmoss
+ColorForeground=#c7c7a5
+ColorBackground=#171e1f
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#171e1f;#ff4658;#499180;#fdb11f;#498091;#9bc0c8;#66d9ef;#c7c7a5;#555e5f;#ff4658;#499180;#fdb11f;#498091;#9bc0c8;#66d9ef;#e1eaef

@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Eva
+ColorForeground=#9fa2a6
+ColorBackground=#2a3b4d
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2a3b4d;#c4676c;#66ff66;#ffff66;#15f4ee;#9c6cd3;#4b8f77;#9fa2a6;#55799c;#c4676c;#66ff66;#ffff66;#15f4ee;#9c6cd3;#4b8f77;#ffffff

@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-vulcan
+ColorForeground=#5b778c
+ColorBackground=#041523
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#041523;#818591;#977d7c;#adb4b9;#977d7c;#9198a3;#977d7c;#5b778c;#7a5759;#818591;#977d7c;#adb4b9;#977d7c;#9198a3;#977d7c;#214d68

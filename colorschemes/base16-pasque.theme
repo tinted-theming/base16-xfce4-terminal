@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Pasque
+ColorForeground=#DEDCDF
+ColorBackground=#271C3A
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#271C3A;#A92258;#C6914B;#804ead;#8E7DC6;#953B9D;#7263AA;#DEDCDF;#5D5766;#A92258;#C6914B;#804ead;#8E7DC6;#953B9D;#7263AA;#BBAADD

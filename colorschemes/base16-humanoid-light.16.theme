@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Humanoid light.16
+ColorForeground=#232629
+ColorBackground=#f8f8f2
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#efefe9;#b0151a;#388e3c;#ffb627;#0082c9;#b27701;#008e8e;#2f3337;#f8f8f2;#ff3d00;#deded8;#c0c0bd;#60615d;#700f98;#232629;#070708

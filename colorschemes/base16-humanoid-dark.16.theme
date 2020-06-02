@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Humanoid dark.16
+ColorForeground=#f8f8f2
+ColorBackground=#232629
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#333b3d;#f11235;#02d849;#ffb627;#00a6fb;#b27701;#0dd9d6;#fcfcf6;#232629;#ff9505;#484e54;#60615d;#c0c0bd;#f15ee3;#f8f8f2;#fcfcfc
