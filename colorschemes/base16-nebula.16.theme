@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Nebula.16
+ColorForeground=#a4a6a9
+ColorBackground=#22273b
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#414f60;#777abc;#6562a8;#4f9062;#4d6bb6;#8c70a7;#226f68;#c7c9cd;#22273b;#94929e;#5a8380;#6e6f72;#87888b;#716cae;#a4a6a9;#8dbdaa

@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Synth Midnight Terminal Light.16
+ColorForeground=#28292a
+ColorBackground=#dddfe0
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#cfd1d2;#b53b50;#06ea61;#c9d364;#03aeff;#cd6320;#42fff9;#1a1b1c;#dddfe0;#ea770d;#c1c3c4;#a3a5a6;#474849;#ea5ce2;#28292a;#050608
