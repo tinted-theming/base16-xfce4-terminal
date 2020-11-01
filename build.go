@@ -122,6 +122,37 @@ func renderTemplateToFile(parsedTemplate *mustache.Template, context map[string]
 	return err
 }
 
+func downloadSchemes(dir string, schemes []*Scheme) {
+	doScheme := make(chan *Scheme, len(schemes))
+	schemeDone := make(chan *Scheme)
+	for i := 0; i < 4; i++ {
+		go func() {
+			for scheme := range doScheme {
+				cmd := exec.Command("git", "clone", "--quiet", "--depth=1", scheme.Repo, scheme.Name)
+				cmd.Dir = dir
+				cmd.Stdout = os.Stdout
+				cmd.Stderr = os.Stderr
+				err := cmd.Run()
+				if err != nil {
+					panic(fmt.Errorf("Error while cloning %s: %v", scheme.Repo, err))
+				}
+				schemeDone <- scheme
+			}
+		}()
+	}
+
+	for _, scheme := range schemes {
+		doScheme <- scheme
+	}
+	close(doScheme)
+
+	nDone := 0
+	for nDone < len(schemes) {
+		nDone++
+		fmt.Printf("(%d/%d) %s\n", nDone, len(schemes), (<-schemeDone).Name)
+	}
+}
+
 func main() {
 	var err error
 
@@ -139,23 +170,12 @@ func main() {
 
 	if len(os.Args) == 1 {
 		schemes := readSchemes(schemesURL)
-		fmt.Println(schemes)
 		tempdir, err = ioutil.TempDir("", "base16.build.")
 		if err != nil {
 			panic(err)
 		}
 		fmt.Println(tempdir)
-		for i, scheme := range schemes {
-			fmt.Printf("(%d/%d) %s\n", i, len(schemes), scheme.Name)
-			cmd := exec.Command("git", "clone", "--quiet", "--depth=1", scheme.Repo, scheme.Name)
-			cmd.Dir = tempdir
-			cmd.Stdout = os.Stdout
-			cmd.Stderr = os.Stderr
-			err = cmd.Run()
-			if err != nil {
-				panic(fmt.Errorf("Error while cloning %s: %v", scheme.Repo, err))
-			}
-		}
+		downloadSchemes(tempdir, schemes)
 	} else {
 		tempdir = os.Args[1]
 	}
