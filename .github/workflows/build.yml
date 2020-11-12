@@ -39,7 +39,7 @@ jobs:
         git diff --staged --exit-code --quiet || git commit -m "update $(date +%Y-%m-%d-%H-%M-%S)" -m "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
 
     - name: Push colorschemes
-      uses: ad-m/github-push-action@b007e7b
+      uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a  # master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
