@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Sagelight
+ColorForeground=#383838
+ColorBackground=#f8f8f8
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#f8f8f8;#fa8480;#a0d2c8;#ffdc61;#a0a7d2;#c8a0d2;#a2d6f5;#383838;#b8b8b8;#fa8480;#a0d2c8;#ffdc61;#a0a7d2;#c8a0d2;#a2d6f5;#181818
