@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Darcula.16
+ColorForeground=#a9b7c6
+ColorBackground=#2b2b2b
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#323232;#4eade5;#6a8759;#bbb529;#9876aa;#808080;#629755;#ffc66d;#2b2b2b;#689757;#323232;#606366;#a4a3a3;#cc7832;#a9b7c6;#ffffff

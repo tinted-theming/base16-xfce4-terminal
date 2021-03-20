@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Windows High Contrast Light
+ColorForeground=#545454
+ColorBackground=#fcfcfc
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#fcfcfc;#800000;#008000;#808000;#000080;#800080;#008080;#545454;#c0c0c0;#800000;#008000;#808000;#000080;#800080;#008080;#000000

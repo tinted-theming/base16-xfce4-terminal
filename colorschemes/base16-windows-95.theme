@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Windows 95
+ColorForeground=#a8a8a8
+ColorBackground=#000000
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#000000;#fc5454;#54fc54;#fcfc54;#5454fc;#fc54fc;#54fcfc;#a8a8a8;#545454;#fc5454;#54fc54;#fcfc54;#5454fc;#fc54fc;#54fcfc;#fcfcfc

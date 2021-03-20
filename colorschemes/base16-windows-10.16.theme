@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Windows 10.16
+ColorForeground=#cccccc
+ColorBackground=#0c0c0c
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2f2f2f;#e74856;#16c60c;#f9f1a5;#3b78ff;#13a10e;#61d6d6;#dfdfdf;#0c0c0c;#c19c00;#535353;#767676;#b9b9b9;#b4009e;#cccccc;#f2f2f2

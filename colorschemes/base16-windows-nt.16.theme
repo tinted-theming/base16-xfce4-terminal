@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Windows NT.16
+ColorForeground=#c0c0c0
+ColorBackground=#000000
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2a2a2a;#ff0000;#00ff00;#ffff00;#0000ff;#008000;#00ffff;#e0e0e0;#000000;#808000;#555555;#808080;#a1a1a1;#ff00ff;#c0c0c0;#ffffff
