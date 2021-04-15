@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Shades of Purple.16
+ColorForeground=#c7c7c7
+ColorBackground=#1e1e3f
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#43d426;#d90429;#3ad900;#ffe700;#6943ff;#79e8fb;#00c5c7;#ff77ff;#1e1e3f;#f92a1c;#f1d000;#808080;#6871ff;#ff2c70;#c7c7c7;#ffffff

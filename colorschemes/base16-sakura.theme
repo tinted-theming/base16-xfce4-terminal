@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Sakura
+ColorForeground=#564448
+ColorBackground=#feedf3
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#feedf3;#df2d52;#2e916d;#c29461;#006e93;#5e2180;#1d8991;#564448;#755f64;#df2d52;#2e916d;#c29461;#006e93;#5e2180;#1d8991;#33292b

@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Qualia.16
+ColorForeground=#C0C0C0
+ColorBackground=#101010
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#454545;#EFA6A2;#80C990;#E6A3DC;#50CACD;#808080;#C8C874;#C0C0C0;#101010;#A3B8EF;#454545;#454545;#808080;#E0AF85;#C0C0C0;#454545
