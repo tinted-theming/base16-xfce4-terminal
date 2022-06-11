@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-pandora.16
+ColorForeground=#f15c99
+ColorBackground=#131213
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2f1823;#b00b69;#9ddf69;#ffcc00;#008080;#a24030;#714ca6;#81506a;#131213;#ff9153;#472234;#ffbee3;#9b2a46;#a24030;#f15c99;#632227

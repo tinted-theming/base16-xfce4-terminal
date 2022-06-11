@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-better-contrast.16
+ColorForeground=#C8E1F8
+ColorBackground=#182430
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#243C54;#4CE587;#C3E88D;#82AAFF;#82AAFF;#BBD2E8;#5FD1FF;#DDEAF6;#182430;#F6A85C;#46290A;#616D78;#74AFE7;#FF84DD;#C8E1F8;#8F98A0

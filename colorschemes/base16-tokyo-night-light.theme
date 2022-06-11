@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Tokyo Night Light
+ColorForeground=#343B59
+ColorBackground=#D5D6DB
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#D5D6DB;#343B58;#485E30;#166775;#34548A;#5A4A78;#3E6968;#343B59;#9699A3;#343B58;#485E30;#166775;#34548A;#5A4A78;#3E6968;#1A1B26
