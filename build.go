@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"fmt"
 	"io/ioutil"
-	"net/http"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -46,35 +45,7 @@ func (t *Template) Path() string {
 	return filepath.Join("templates", t.Name+".mustache")
 }
 
-const schemesURL = "https://github.com/chriskempson/base16-schemes-source/raw/master/list.yaml"
-
-// Scheme matches a base16 scheme source
-type Scheme struct {
-	Name string
-	Repo string
-}
-
-func readSchemes(url string) []*Scheme {
-	resp, err := http.Get(url)
-	if err != nil {
-		panic(err)
-	}
-	defer resp.Body.Close()
-	if resp.StatusCode != http.StatusOK {
-		panic(fmt.Errorf("unexpected status code %d from %s", resp.StatusCode, url))
-	}
-	dec := yaml.NewDecoder(resp.Body)
-	schemeMap := make(map[string]string)
-	err = dec.Decode(schemeMap)
-	if err != nil {
-		panic(err)
-	}
-	schemes := make([]*Scheme, 0, len(schemeMap))
-	for k, v := range schemeMap {
-		schemes = append(schemes, &Scheme{k, v})
-	}
-	return schemes
-}
+const schemesGit = "https://github.com/base16-project/base16-schemes.git"
 
 func makeContext(scheme map[string]string) (map[string]string, error) {
 	context := make(map[string]string)
@@ -122,34 +93,14 @@ func renderTemplateToFile(parsedTemplate *mustache.Template, context map[string]
 	return err
 }
 
-func downloadSchemes(dir string, schemes []*Scheme) {
-	doScheme := make(chan *Scheme, len(schemes))
-	schemeDone := make(chan *Scheme)
-	for i := 0; i < 4; i++ {
-		go func() {
-			for scheme := range doScheme {
-				cmd := exec.Command("git", "clone", "--quiet", "--depth=1", scheme.Repo, scheme.Name)
-				cmd.Dir = dir
-				cmd.Stdout = os.Stdout
-				cmd.Stderr = os.Stderr
-				err := cmd.Run()
-				if err != nil {
-					panic(fmt.Errorf("Error while cloning %s: %v", scheme.Repo, err))
-				}
-				schemeDone <- scheme
-			}
-		}()
-	}
-
-	for _, scheme := range schemes {
-		doScheme <- scheme
-	}
-	close(doScheme)
-
-	nDone := 0
-	for nDone < len(schemes) {
-		nDone++
-		fmt.Printf("(%d/%d) %s\n", nDone, len(schemes), (<-schemeDone).Name)
+func downloadSchemes(dir string) {
+	cmd := exec.Command("git", "clone", "--depth=1", schemesGit, dir)
+	cmd.Dir = dir
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+	err := cmd.Run()
+	if err != nil {
+		panic(fmt.Errorf("Error while cloning %s: %v", schemesGit, err))
 	}
 }
 
@@ -157,7 +108,6 @@ func main() {
 	var err error
 
 	templates := readTemplates("templates/config.yaml")
-	fmt.Println(templates)
 	parsedTemplates := make([]*mustache.Template, len(templates))
 	for i, template := range templates {
 		parsedTemplates[i], err = mustache.ParseFile(template.Path())
@@ -169,18 +119,17 @@ func main() {
 	var tempdir string
 
 	if len(os.Args) == 1 {
-		schemes := readSchemes(schemesURL)
 		tempdir, err = ioutil.TempDir("", "base16.build.")
 		if err != nil {
 			panic(err)
 		}
 		fmt.Println(tempdir)
-		downloadSchemes(tempdir, schemes)
+		downloadSchemes(tempdir)
 	} else {
 		tempdir = os.Args[1]
 	}
 
-	globPat := filepath.Join(tempdir, "**", "*.yaml")
+	globPat := filepath.Join(tempdir, "*.yaml")
 	sources, err := filepath.Glob(globPat)
 	if err != nil {
 		panic(fmt.Errorf("Error while globbing %s: %v", globPat, err))
@@ -205,4 +154,5 @@ func main() {
 			}
 		}
 	}
+	fmt.Printf("Generated %d schemes\n", len(sources))
 }
