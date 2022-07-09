@@ -60,7 +60,7 @@ func makeContext(scheme map[string]string) (map[string]string, error) {
 	context["scheme-name"] = getCheck("scheme")
 	context["scheme-author"] = getCheck("author")
 	for i := 0; i < 16; i++ {
-		context[fmt.Sprintf("base%02X-hex", i)] = getCheck(fmt.Sprintf("base%02X", i))
+		context[fmt.Sprintf("base%02X-hex", i)] = strings.TrimLeft(getCheck(fmt.Sprintf("base%02X", i)), "#")
 	}
 	if err != nil {
 		return nil, err
