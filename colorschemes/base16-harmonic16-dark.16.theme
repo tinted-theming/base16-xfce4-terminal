@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Harmonic16 Dark.16
-ColorForeground=#cbd6e2
-ColorBackground=#0b1c2c
+ColorForeground=##cbd6e2
+ColorBackground=##0b1c2c
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#223b54;#bf8b56;#56bf8b;#8bbf56;#8b56bf;#bf5656;#568bbf;#e5ebf1;#0b1c2c;#bfbf56;#405c79;#627e99;#aabcce;#bf568b;#cbd6e2;#f7f9fb
+ColorPalette=##223b54;##bf8b56;##56bf8b;##8bbf56;##8b56bf;##bf5656;##568bbf;##e5ebf1;##0b1c2c;##bfbf56;##405c79;##627e99;##aabcce;##bf568b;##cbd6e2;##f7f9fb

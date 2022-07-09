@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Tokyodark Terminal
-ColorForeground=#a0a8cd
-ColorBackground=#11121d
+ColorForeground=##a0a8cd
+ColorBackground=##11121d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#11121d;#ee6d85;#95c561;#d7a65f;#7199ee;#a485dd;#38a89d;#a0a8cd;#282c34;#ee6d85;#95c561;#d7a65f;#7199ee;#a485dd;#38a89d;#a0a8cd
+ColorPalette=##11121d;##ee6d85;##95c561;##d7a65f;##7199ee;##a485dd;##38a89d;##a0a8cd;##282c34;##ee6d85;##95c561;##d7a65f;##7199ee;##a485dd;##38a89d;##a0a8cd

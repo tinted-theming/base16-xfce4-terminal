@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Tokyo Night Terminal Storm
-ColorForeground=#787C99
-ColorBackground=#24283B
+ColorForeground=##787C99
+ColorBackground=##24283B
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#24283B;#F7768E;#41A6B5;#E0AF68;#7AA2F7;#BB9AF7;#7DCFFF;#787C99;#444B6A;#F7768E;#41A6B5;#E0AF68;#7AA2F7;#BB9AF7;#7DCFFF;#D5D6DB
+ColorPalette=##24283B;##F7768E;##41A6B5;##E0AF68;##7AA2F7;##BB9AF7;##7DCFFF;##787C99;##444B6A;##F7768E;##41A6B5;##E0AF68;##7AA2F7;##BB9AF7;##7DCFFF;##D5D6DB

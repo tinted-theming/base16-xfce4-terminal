@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Hopscotch.16
-ColorForeground=#b9b5b8
-ColorBackground=#322931
+ColorForeground=##b9b5b8
+ColorBackground=##322931
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#433b42;#dd464c;#8fc13e;#fdcc59;#1290bf;#b33508;#149b93;#d5d3d5;#322931;#fd8b19;#5c545b;#797379;#989498;#c85e7c;#b9b5b8;#ffffff
+ColorPalette=##433b42;##dd464c;##8fc13e;##fdcc59;##1290bf;##b33508;##149b93;##d5d3d5;##322931;##fd8b19;##5c545b;##797379;##989498;##c85e7c;##b9b5b8;##ffffff

@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Tomorrow.16
-ColorForeground=#4d4d4c
-ColorBackground=#ffffff
+ColorForeground=##4d4d4c
+ColorBackground=##ffffff
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#e0e0e0;#c82829;#718c00;#eab700;#4271ae;#a3685a;#3e999f;#282a2e;#ffffff;#f5871f;#d6d6d6;#8e908c;#969896;#8959a8;#4d4d4c;#1d1f21
+ColorPalette=##e0e0e0;##c82829;##718c00;##eab700;##4271ae;##a3685a;##3e999f;##282a2e;##ffffff;##f5871f;##d6d6d6;##8e908c;##969896;##8959a8;##4d4d4c;##1d1f21

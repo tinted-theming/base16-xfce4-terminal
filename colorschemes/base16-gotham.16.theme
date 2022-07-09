@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Gotham.16
-ColorForeground=#599cab
-ColorBackground=#0c1014
+ColorForeground=##599cab
+ColorBackground=##0c1014
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#11151c;#c23127;#33859E;#edb443;#195466;#4e5166;#2aa889;#99d1ce;#0c1014;#d26937;#091f2e;#0a3749;#245361;#888ca6;#599cab;#d3ebe9
+ColorPalette=##11151c;##c23127;##33859E;##edb443;##195466;##4e5166;##2aa889;##99d1ce;##0c1014;##d26937;##091f2e;##0a3749;##245361;##888ca6;##599cab;##d3ebe9

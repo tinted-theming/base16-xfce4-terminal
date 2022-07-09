@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-vice.16
-ColorForeground=#8b9cbe
-ColorBackground=#17191E
+ColorForeground=##8b9cbe
+ColorBackground=##17191E
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#22262d;#ff29a8;#0badff;#f0ffaa;#00eaff;#ff3d81;#8265ff;#B2BFD9;#17191E;#85ffe0;#3c3f4c;#383a47;#555e70;#00f6d9;#8b9cbe;#f4f4f7
+ColorPalette=##22262d;##ff29a8;##0badff;##f0ffaa;##00eaff;##ff3d81;##8265ff;##B2BFD9;##17191E;##85ffe0;##3c3f4c;##383a47;##555e70;##00f6d9;##8b9cbe;##f4f4f7

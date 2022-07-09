@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Synth Midnight Terminal Dark.16
-ColorForeground=#c1c3c4
-ColorBackground=#050608
+ColorForeground=##c1c3c4
+ColorBackground=##050608
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1a1b1c;#b53b50;#06ea61;#c9d364;#03aeff;#cd6320;#42fff9;#cfd1d2;#050608;#ea770d;#28292a;#474849;#a3a5a6;#ea5ce2;#c1c3c4;#dddfe0
+ColorPalette=##1a1b1c;##b53b50;##06ea61;##c9d364;##03aeff;##cd6320;##42fff9;##cfd1d2;##050608;##ea770d;##28292a;##474849;##a3a5a6;##ea5ce2;##c1c3c4;##dddfe0

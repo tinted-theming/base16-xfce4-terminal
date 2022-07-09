@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Atelier Forest.16
-ColorForeground=#a8a19f
-ColorBackground=#1b1918
+ColorForeground=##a8a19f
+ColorBackground=##1b1918
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2c2421;#f22c40;#7b9726;#c38418;#407ee7;#c33ff3;#3d97b8;#e6e2e0;#1b1918;#df5320;#68615e;#766e6b;#9c9491;#6666ea;#a8a19f;#f1efee
+ColorPalette=##2c2421;##f22c40;##7b9726;##c38418;##407ee7;##c33ff3;##3d97b8;##e6e2e0;##1b1918;##df5320;##68615e;##766e6b;##9c9491;##6666ea;##a8a19f;##f1efee

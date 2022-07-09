@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Gruvbox dark, pale.16
-ColorForeground=#dab997
-ColorBackground=#262626
+ColorForeground=##dab997
+ColorBackground=##262626
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#3a3a3a;#d75f5f;#afaf00;#ffaf00;#83adad;#d65d0e;#85ad85;#d5c4a1;#262626;#ff8700;#4e4e4e;#8a8a8a;#949494;#d485ad;#dab997;#ebdbb2
+ColorPalette=##3a3a3a;##d75f5f;##afaf00;##ffaf00;##83adad;##d65d0e;##85ad85;##d5c4a1;##262626;##ff8700;##4e4e4e;##8a8a8a;##949494;##d485ad;##dab997;##ebdbb2

@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Pop.16
-ColorForeground=#d0d0d0
-ColorBackground=#000000
+ColorForeground=##d0d0d0
+ColorBackground=##000000
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#202020;#eb008a;#37b349;#f8ca12;#0e5a94;#7a2d00;#00aabb;#e0e0e0;#000000;#f29333;#303030;#505050;#b0b0b0;#b31e8d;#d0d0d0;#ffffff
+ColorPalette=##202020;##eb008a;##37b349;##f8ca12;##0e5a94;##7a2d00;##00aabb;##e0e0e0;##000000;##f29333;##303030;##505050;##b0b0b0;##b31e8d;##d0d0d0;##ffffff

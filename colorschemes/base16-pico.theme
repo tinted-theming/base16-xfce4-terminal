@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Pico
-ColorForeground=#5f574f
-ColorBackground=#000000
+ColorForeground=##5f574f
+ColorBackground=##000000
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#000000;#ff004d;#00e756;#fff024;#83769c;#ff77a8;#29adff;#5f574f;#008751;#ff004d;#00e756;#fff024;#83769c;#ff77a8;#29adff;#fff1e8
+ColorPalette=##000000;##ff004d;##00e756;##fff024;##83769c;##ff77a8;##29adff;##5f574f;##008751;##ff004d;##00e756;##fff024;##83769c;##ff77a8;##29adff;##fff1e8

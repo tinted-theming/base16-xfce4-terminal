@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Purpledream
-ColorForeground=#ddd0dd
-ColorBackground=#100510
+ColorForeground=##ddd0dd
+ColorBackground=##100510
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#100510;#FF1D0D;#14CC64;#F000A0;#00A0F0;#B000D0;#0075B0;#ddd0dd;#605060;#FF1D0D;#14CC64;#F000A0;#00A0F0;#B000D0;#0075B0;#fff0ff
+ColorPalette=##100510;##FF1D0D;##14CC64;##F000A0;##00A0F0;##B000D0;##0075B0;##ddd0dd;##605060;##FF1D0D;##14CC64;##F000A0;##00A0F0;##B000D0;##0075B0;##fff0ff

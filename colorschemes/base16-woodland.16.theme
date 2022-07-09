@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Woodland.16
-ColorForeground=#cabcb1
-ColorBackground=#231e18
+ColorForeground=##cabcb1
+ColorBackground=##231e18
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#302b25;#d35c5c;#b7ba53;#e0ac16;#88a4d3;#b49368;#6eb958;#d7c8bc;#231e18;#ca7f32;#48413a;#9d8b70;#b4a490;#bb90e2;#cabcb1;#e4d4c8
+ColorPalette=##302b25;##d35c5c;##b7ba53;##e0ac16;##88a4d3;##b49368;##6eb958;##d7c8bc;##231e18;##ca7f32;##48413a;##9d8b70;##b4a490;##bb90e2;##cabcb1;##e4d4c8

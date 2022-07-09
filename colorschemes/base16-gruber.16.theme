@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Gruber.16
-ColorForeground=#f4f4ff
-ColorBackground=#181818
+ColorForeground=##f4f4ff
+ColorBackground=##181818
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#453d41;#f43841;#73c936;#ffdd33;#96a6c8;#cc8c3c;#95a99f;#f5f5f5;#181818;#c73c3f;#484848;#52494e;#e4e4ef;#9e95c7;#f4f4ff;#e4e4ef
+ColorPalette=##453d41;##f43841;##73c936;##ffdd33;##96a6c8;##cc8c3c;##95a99f;##f5f5f5;##181818;##c73c3f;##484848;##52494e;##e4e4ef;##9e95c7;##f4f4ff;##e4e4ef

@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Atelier Cave Light.16
-ColorForeground=#585260
-ColorBackground=#efecf4
+ColorForeground=##585260
+ColorBackground=##efecf4
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#e2dfe7;#be4678;#2a9292;#a06e3b;#576ddb;#bf40bf;#398bc6;#26232a;#efecf4;#aa573c;#8b8792;#7e7887;#655f6d;#955ae7;#585260;#19171c
+ColorPalette=##e2dfe7;##be4678;##2a9292;##a06e3b;##576ddb;##bf40bf;##398bc6;##26232a;##efecf4;##aa573c;##8b8792;##7e7887;##655f6d;##955ae7;##585260;##19171c

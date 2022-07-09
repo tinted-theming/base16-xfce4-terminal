@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-EverForest.16
-ColorForeground=#d3c6aa
-ColorBackground=#2b3339
+ColorForeground=##d3c6aa
+ColorBackground=##2b3339
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#323c41;#e67e80;#a7c080;#dbbc7f;#7fbbb3;#d699b6;#83c092;#e9e8d2;#2b3339;#e69875;#3a4248;#868d80;#a59572;#d699b6;#d3c6aa;#fff9e8
+ColorPalette=##323c41;##e67e80;##a7c080;##dbbc7f;##7fbbb3;##d699b6;##83c092;##e9e8d2;##2b3339;##e69875;##3a4248;##868d80;##a59572;##d699b6;##d3c6aa;##fff9e8

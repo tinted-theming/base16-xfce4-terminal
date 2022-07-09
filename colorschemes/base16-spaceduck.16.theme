@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Spaceduck.16
-ColorForeground=#ecf0c1
-ColorBackground=#16172d
+ColorForeground=##ecf0c1
+ColorBackground=##16172d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1b1c36;#e33400;#5ccc96;#f2ce00;#7a5ccc;#ce6f8f;#00a3cc;#c1c3cc;#16172d;#e39400;#30365F;#686f9a;#818596;#b3a1e6;#ecf0c1;#ffffff
+ColorPalette=##1b1c36;##e33400;##5ccc96;##f2ce00;##7a5ccc;##ce6f8f;##00a3cc;##c1c3cc;##16172d;##e39400;##30365F;##686f9a;##818596;##b3a1e6;##ecf0c1;##ffffff

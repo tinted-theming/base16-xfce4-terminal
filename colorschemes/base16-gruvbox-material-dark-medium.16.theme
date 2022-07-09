@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Gruvbox Material Dark, Medium.16
-ColorForeground=#ddc7a1
-ColorBackground=#292828
+ColorForeground=##ddc7a1
+ColorBackground=##292828
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#32302f;#ea6962;#a9b665;#d8a657;#7daea3;#bd6f3e;#89b482;#ebdbb2;#292828;#e78a4e;#504945;#665c54;#bdae93;#d3869b;#ddc7a1;#fbf1c7
+ColorPalette=##32302f;##ea6962;##a9b665;##d8a657;##7daea3;##bd6f3e;##89b482;##ebdbb2;##292828;##e78a4e;##504945;##665c54;##bdae93;##d3869b;##ddc7a1;##fbf1c7
