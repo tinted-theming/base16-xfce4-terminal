@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Gruvbox light, hard.16
-ColorForeground=##504945
-ColorBackground=##f9f5d7
+ColorForeground=#504945
+ColorBackground=#f9f5d7
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##ebdbb2;##9d0006;##79740e;##b57614;##076678;##d65d0e;##427b58;##3c3836;##f9f5d7;##af3a03;##d5c4a1;##bdae93;##665c54;##8f3f71;##504945;##282828
+ColorPalette=#ebdbb2;#9d0006;#79740e;#b57614;#076678;#d65d0e;#427b58;#3c3836;#f9f5d7;#af3a03;#d5c4a1;#bdae93;#665c54;#8f3f71;#504945;#282828

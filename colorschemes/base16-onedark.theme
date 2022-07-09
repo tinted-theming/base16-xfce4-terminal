@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-OneDark
-ColorForeground=##abb2bf
-ColorBackground=##282c34
+ColorForeground=#abb2bf
+ColorBackground=#282c34
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##282c34;##e06c75;##98c379;##e5c07b;##61afef;##c678dd;##56b6c2;##abb2bf;##545862;##e06c75;##98c379;##e5c07b;##61afef;##c678dd;##56b6c2;##c8ccd4
+ColorPalette=#282c34;#e06c75;#98c379;#e5c07b;#61afef;#c678dd;#56b6c2;#abb2bf;#545862;#e06c75;#98c379;#e5c07b;#61afef;#c678dd;#56b6c2;#c8ccd4

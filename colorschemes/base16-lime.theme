@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-lime
-ColorForeground=##818175
-ColorBackground=##1a1a2f
+ColorForeground=#818175
+ColorBackground=#1a1a2f
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##1a1a2f;##ff662a;##8cd97c;##ffd15e;##2b926f;##1b825f;##4cad83;##818175;##313140;##ff662a;##8cd97c;##ffd15e;##2b926f;##1b825f;##4cad83;##fff8e1
+ColorPalette=#1a1a2f;#ff662a;#8cd97c;#ffd15e;#2b926f;#1b825f;#4cad83;#818175;#313140;#ff662a;#8cd97c;#ffd15e;#2b926f;#1b825f;#4cad83;#fff8e1

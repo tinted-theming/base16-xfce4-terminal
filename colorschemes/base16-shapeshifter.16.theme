@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Shapeshifter.16
-ColorForeground=##102015
-ColorBackground=##f9f9f9
+ColorForeground=#102015
+ColorBackground=#f9f9f9
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##e0e0e0;##e92f2f;##0ed839;##dddd13;##3b48e3;##69542d;##23edda;##040404;##f9f9f9;##e09448;##ababab;##555555;##343434;##f996e2;##102015;##000000
+ColorPalette=#e0e0e0;#e92f2f;#0ed839;#dddd13;#3b48e3;#69542d;#23edda;#040404;#f9f9f9;#e09448;#ababab;#555555;#343434;#f996e2;#102015;#000000

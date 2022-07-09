@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Twilight.16
-ColorForeground=##a7a7a7
-ColorBackground=##1e1e1e
+ColorForeground=#a7a7a7
+ColorBackground=#1e1e1e
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##323537;##cf6a4c;##8f9d6a;##f9ee98;##7587a6;##9b703f;##afc4db;##c3c3c3;##1e1e1e;##cda869;##464b50;##5f5a60;##838184;##9b859d;##a7a7a7;##ffffff
+ColorPalette=#323537;#cf6a4c;#8f9d6a;#f9ee98;#7587a6;#9b703f;#afc4db;#c3c3c3;#1e1e1e;#cda869;#464b50;#5f5a60;#838184;#9b859d;#a7a7a7;#ffffff

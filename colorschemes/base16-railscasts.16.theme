@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Railscasts.16
-ColorForeground=##e6e1dc
-ColorBackground=##2b2b2b
+ColorForeground=#e6e1dc
+ColorBackground=#2b2b2b
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##272935;##da4939;##a5c261;##ffc66d;##6d9cbe;##bc9458;##519f50;##f4f1ed;##2b2b2b;##cc7833;##3a4055;##5a647e;##d4cfc9;##b6b3eb;##e6e1dc;##f9f7f3
+ColorPalette=#272935;#da4939;#a5c261;#ffc66d;#6d9cbe;#bc9458;#519f50;#f4f1ed;#2b2b2b;#cc7833;#3a4055;#5a647e;#d4cfc9;#b6b3eb;#e6e1dc;#f9f7f3

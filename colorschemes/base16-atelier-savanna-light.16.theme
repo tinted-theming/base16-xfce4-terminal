@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Atelier Savanna Light.16
-ColorForeground=##526057
-ColorBackground=##ecf4ee
+ColorForeground=#526057
+ColorBackground=#ecf4ee
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##dfe7e2;##b16139;##489963;##a07e3b;##478c90;##867469;##1c9aa0;##232a25;##ecf4ee;##9f713c;##87928a;##78877d;##5f6d64;##55859b;##526057;##171c19
+ColorPalette=#dfe7e2;#b16139;#489963;#a07e3b;#478c90;#867469;#1c9aa0;#232a25;#ecf4ee;#9f713c;#87928a;#78877d;#5f6d64;#55859b;#526057;#171c19

@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Tokyodark
-ColorForeground=##abb2bf
-ColorBackground=##11121d
+ColorForeground=#abb2bf
+ColorBackground=#11121d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##11121d;##a485dd;##d7A65f;##7199ee;##95c561;##ee6d85;##a485dd;##abb2bf;##393a45;##a485dd;##d7A65f;##7199ee;##95c561;##ee6d85;##a485dd;##2c2d38
+ColorPalette=#11121d;#a485dd;#d7A65f;#7199ee;#95c561;#ee6d85;#a485dd;#abb2bf;#393a45;#a485dd;#d7A65f;#7199ee;#95c561;#ee6d85;#a485dd;#2c2d38

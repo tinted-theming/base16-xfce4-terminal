@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Mocha.16
-ColorForeground=##d0c8c6
-ColorBackground=##3B3228
+ColorForeground=#d0c8c6
+ColorBackground=#3B3228
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##534636;##cb6077;##beb55b;##f4bc87;##8ab3b5;##bb9584;##7bbda4;##e9e1dd;##3B3228;##d28b71;##645240;##7e705a;##b8afad;##a89bb9;##d0c8c6;##f5eeeb
+ColorPalette=#534636;#cb6077;#beb55b;#f4bc87;#8ab3b5;#bb9584;#7bbda4;#e9e1dd;#3B3228;#d28b71;#645240;#7e705a;#b8afad;#a89bb9;#d0c8c6;#f5eeeb

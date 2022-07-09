@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Default Dark.16
-ColorForeground=##d8d8d8
-ColorBackground=##181818
+ColorForeground=#d8d8d8
+ColorBackground=#181818
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##282828;##ab4642;##a1b56c;##f7ca88;##7cafc2;##a16946;##86c1b9;##e8e8e8;##181818;##dc9656;##383838;##585858;##b8b8b8;##ba8baf;##d8d8d8;##f8f8f8
+ColorPalette=#282828;#ab4642;#a1b56c;#f7ca88;#7cafc2;#a16946;#86c1b9;#e8e8e8;#181818;#dc9656;#383838;#585858;#b8b8b8;#ba8baf;#d8d8d8;#f8f8f8

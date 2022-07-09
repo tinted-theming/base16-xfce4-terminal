@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Atelier Sulphurpool Light.16
-ColorForeground=##5e6687
-ColorBackground=##f5f7ff
+ColorForeground=#5e6687
+ColorBackground=#f5f7ff
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##dfe2f1;##c94922;##ac9739;##c08b30;##3d8fd1;##9c637a;##22a2c9;##293256;##f5f7ff;##c76b29;##979db4;##898ea4;##6b7394;##6679cc;##5e6687;##202746
+ColorPalette=#dfe2f1;#c94922;#ac9739;#c08b30;#3d8fd1;#9c637a;#22a2c9;#293256;#f5f7ff;#c76b29;#979db4;#898ea4;#6b7394;#6679cc;#5e6687;#202746

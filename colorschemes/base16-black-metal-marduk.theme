@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Black Metal (Marduk)
-ColorForeground=##c1c1c1
-ColorBackground=##000000
+ColorForeground=#c1c1c1
+ColorBackground=#000000
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##000000;##5f8787;##a5aaa7;##626b67;##888888;##999999;##aaaaaa;##c1c1c1;##333333;##5f8787;##a5aaa7;##626b67;##888888;##999999;##aaaaaa;##c1c1c1
+ColorPalette=#000000;#5f8787;#a5aaa7;#626b67;#888888;#999999;#aaaaaa;#c1c1c1;#333333;#5f8787;#a5aaa7;#626b67;#888888;#999999;#aaaaaa;#c1c1c1

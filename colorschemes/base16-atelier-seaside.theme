@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Atelier Seaside
-ColorForeground=##8ca68c
-ColorBackground=##131513
+ColorForeground=#8ca68c
+ColorBackground=#131513
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##131513;##e6193c;##29a329;##98981b;##3d62f5;##ad2bee;##1999b3;##8ca68c;##687d68;##e6193c;##29a329;##98981b;##3d62f5;##ad2bee;##1999b3;##f4fbf4
+ColorPalette=#131513;#e6193c;#29a329;#98981b;#3d62f5;#ad2bee;#1999b3;#8ca68c;#687d68;#e6193c;#29a329;#98981b;#3d62f5;#ad2bee;#1999b3;#f4fbf4

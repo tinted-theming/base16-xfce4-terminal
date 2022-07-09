@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Tokyo City Terminal Dark
-ColorForeground=##D8E2EC
-ColorBackground=##171D23
+ColorForeground=#D8E2EC
+ColorBackground=#171D23
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##171D23;##D95468;##8BD49C;##EBBF83;##539AFC;##B62D65;##70E1E8;##D8E2EC;##526270;##D95468;##8BD49C;##EBBF83;##539AFC;##B62D65;##70E1E8;##FBFBFD
+ColorPalette=#171D23;#D95468;#8BD49C;#EBBF83;#539AFC;#B62D65;#70E1E8;#D8E2EC;#526270;#D95468;#8BD49C;#EBBF83;#539AFC;#B62D65;#70E1E8;#FBFBFD

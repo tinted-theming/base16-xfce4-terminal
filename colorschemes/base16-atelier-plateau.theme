@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Atelier Plateau
-ColorForeground=##8a8585
-ColorBackground=##1b1818
+ColorForeground=#8a8585
+ColorBackground=#1b1818
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##1b1818;##ca4949;##4b8b8b;##a06e3b;##7272ca;##8464c4;##5485b6;##8a8585;##655d5d;##ca4949;##4b8b8b;##a06e3b;##7272ca;##8464c4;##5485b6;##f4ecec
+ColorPalette=#1b1818;#ca4949;#4b8b8b;#a06e3b;#7272ca;#8464c4;#5485b6;#8a8585;#655d5d;#ca4949;#4b8b8b;#a06e3b;#7272ca;#8464c4;#5485b6;#f4ecec

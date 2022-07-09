@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-dirtysea.16
-ColorForeground=##000000
-ColorBackground=##e0e0e0
+ColorForeground=#000000
+ColorBackground=#e0e0e0
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##d0dad0;##840000;##730073;##755B00;##007300;##755B00;##755B00;##f8f8f8;##e0e0e0;##006565;##d0d0d0;##707070;##202020;##000090;##000000;##c4d9c4
+ColorPalette=#d0dad0;#840000;#730073;#755B00;#007300;#755B00;#755B00;#f8f8f8;#e0e0e0;#006565;#d0d0d0;#707070;#202020;#000090;#000000;#c4d9c4

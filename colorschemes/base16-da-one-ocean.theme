@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Da One Ocean
-ColorForeground=##ffffff
-ColorBackground=##171726
+ColorForeground=#ffffff
+ColorBackground=#171726
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##171726;##fa7883;##98c379;##ff9470;##6bb8ff;##e799ff;##8af5ff;##ffffff;##878d96;##fa7883;##98c379;##ff9470;##6bb8ff;##e799ff;##8af5ff;##ffffff
+ColorPalette=#171726;#fa7883;#98c379;#ff9470;#6bb8ff;#e799ff;#8af5ff;#ffffff;#878d96;#fa7883;#98c379;#ff9470;#6bb8ff;#e799ff;#8af5ff;#ffffff

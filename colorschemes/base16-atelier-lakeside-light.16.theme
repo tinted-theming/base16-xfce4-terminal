@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Atelier Lakeside Light.16
-ColorForeground=##516d7b
-ColorBackground=##ebf8ff
+ColorForeground=#516d7b
+ColorBackground=#ebf8ff
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##c1e4f6;##d22d72;##568c3b;##8a8a0f;##257fad;##b72dd2;##2d8f6f;##1f292e;##ebf8ff;##935c25;##7ea2b4;##7195a8;##5a7b8c;##6b6bb8;##516d7b;##161b1d
+ColorPalette=#c1e4f6;#d22d72;#568c3b;#8a8a0f;#257fad;#b72dd2;#2d8f6f;#1f292e;#ebf8ff;#935c25;#7ea2b4;#7195a8;#5a7b8c;#6b6bb8;#516d7b;#161b1d

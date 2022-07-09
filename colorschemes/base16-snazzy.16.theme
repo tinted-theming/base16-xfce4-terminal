@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Snazzy.16
-ColorForeground=##e2e4e5
-ColorBackground=##282a36
+ColorForeground=#e2e4e5
+ColorBackground=#282a36
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##34353e;##ff5c57;##5af78e;##f3f99d;##57c7ff;##b2643c;##9aedfe;##eff0eb;##282a36;##ff9f43;##43454f;##78787e;##a5a5a9;##ff6ac1;##e2e4e5;##f1f1f0
+ColorPalette=#34353e;#ff5c57;#5af78e;#f3f99d;#57c7ff;#b2643c;#9aedfe;#eff0eb;#282a36;#ff9f43;#43454f;#78787e;#a5a5a9;#ff6ac1;#e2e4e5;#f1f1f0

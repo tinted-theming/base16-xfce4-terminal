@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Katy.16
-ColorForeground=##959dcb
-ColorBackground=##292d3e
+ColorForeground=#959dcb
+ColorBackground=#292d3e
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##444267;##6e98e1;##78c06e;##e0a557;##82aaff;##ff5370;##83b7e5;##959dcb;##292d3e;##f78c6c;##5c598b;##676e95;##8796b0;##c792ea;##959dcb;##ffffff
+ColorPalette=#444267;#6e98e1;#78c06e;#e0a557;#82aaff;#ff5370;#83b7e5;#959dcb;#292d3e;#f78c6c;#5c598b;#676e95;#8796b0;#c792ea;#959dcb;#ffffff

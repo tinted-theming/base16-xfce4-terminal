@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Spacemacs.16
-ColorForeground=##a3a3a3
-ColorBackground=##1f2022
+ColorForeground=#a3a3a3
+ColorBackground=#1f2022
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##282828;##f2241f;##67b11d;##b1951d;##4f97d7;##b03060;##2d9574;##e8e8e8;##1f2022;##ffa500;##444155;##585858;##b8b8b8;##a31db1;##a3a3a3;##f8f8f8
+ColorPalette=#282828;#f2241f;#67b11d;#b1951d;#4f97d7;#b03060;#2d9574;#e8e8e8;#1f2022;#ffa500;#444155;#585858;#b8b8b8;#a31db1;#a3a3a3;#f8f8f8

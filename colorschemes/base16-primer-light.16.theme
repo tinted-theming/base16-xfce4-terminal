@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Primer Light.16
-ColorForeground=##2f363d
-ColorBackground=##fafbfc
+ColorForeground=#2f363d
+ColorBackground=#fafbfc
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=##e1e4e8;##d73a49;##28a745;##ffd33d;##0366d6;##a04100;##79b8ff;##24292e;##fafbfc;##f66a0a;##d1d5da;##959da5;##444d56;##ea4aaa;##2f363d;##1b1f23
+ColorPalette=#e1e4e8;#d73a49;#28a745;#ffd33d;#0366d6;#a04100;#79b8ff;#24292e;#fafbfc;#f66a0a;#d1d5da;#959da5;#444d56;#ea4aaa;#2f363d;#1b1f23
