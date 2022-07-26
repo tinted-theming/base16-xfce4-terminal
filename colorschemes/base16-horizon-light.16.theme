@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Horizon Light.16
-ColorForeground=#403C3D
-ColorBackground=#FDF0ED
+ColorForeground=#403c3d
+ColorBackground=#fdf0ed
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#FADAD1;#F7939B;#94E1B0;#FBE0D9;#DA103F;#E58C92;#DC3318;#302C2D;#FDF0ED;#F6661E;#F9CBBE;#BDB3B1;#948C8A;#1D8991;#403C3D;#201C1D
+ColorPalette=#fadad1;#f7939b;#94e1b0;#fbe0d9;#da103f;#e58c92;#dc3318;#302c2d;#fdf0ed;#f6661e;#f9cbbe;#bdb3b1;#948c8a;#1d8991;#403c3d;#201c1d

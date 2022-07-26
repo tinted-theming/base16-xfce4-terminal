@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Catppuccin.16
-ColorForeground=#D7DAE0
-ColorBackground=#1E1E28
+ColorForeground=#d7dae0
+ColorBackground=#1e1e28
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1A1826;#F28FAD;#ABE9B3;#FAE3B0;#96CDFB;#F2CDCD;#B5E8E0;#F5E0DC;#1E1E28;#F8BD96;#302D41;#575268;#6E6C7C;#DDB6F2;#D7DAE0;#C9CBFF
+ColorPalette=#1a1826;#f28fad;#abe9b3;#fae3b0;#96cdfb;#f2cdcd;#b5e8e0;#f5e0dc;#1e1e28;#f8bd96;#302d41;#575268;#6e6c7c;#ddb6f2;#d7dae0;#c9cbff

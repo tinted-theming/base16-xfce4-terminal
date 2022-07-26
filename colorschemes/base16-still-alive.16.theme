@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Still Alive.16
-ColorForeground=#D80000
-ColorBackground=#F0F0F0
+ColorForeground=#d80000
+ColorBackground=#f0f0f0
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#F0D848;#487830;#5C5C6A;#426395;#001878;#140C0D;#2C3C57;#489000;#F0F0F0;#183048;#FFF018;#F01818;#F00000;#900000;#D80000;#30A860
+ColorPalette=#f0d848;#487830;#5c5c6a;#426395;#001878;#140c0d;#2c3c57;#489000;#f0f0f0;#183048;#fff018;#f01818;#f00000;#900000;#d80000;#30a860

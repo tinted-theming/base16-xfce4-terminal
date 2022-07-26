@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Horizon Terminal Light
-ColorForeground=#403C3D
-ColorBackground=#FDF0ED
+ColorForeground=#403c3d
+ColorBackground=#fdf0ed
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#FDF0ED;#E95678;#29D398;#FADAD1;#26BBD9;#EE64AC;#59E1E3;#403C3D;#BDB3B1;#E95678;#29D398;#FADAD1;#26BBD9;#EE64AC;#59E1E3;#201C1D
+ColorPalette=#fdf0ed;#e95678;#29d398;#fadad1;#26bbd9;#ee64ac;#59e1e3;#403c3d;#bdb3b1;#e95678;#29d398;#fadad1;#26bbd9;#ee64ac;#59e1e3;#201c1d

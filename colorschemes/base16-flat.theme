@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Flat
 ColorForeground=#e0e0e0
-ColorBackground=#2C3E50
+ColorBackground=#2c3e50
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2C3E50;#E74C3C;#2ECC71;#F1C40F;#3498DB;#9B59B6;#1ABC9C;#e0e0e0;#95A5A6;#E74C3C;#2ECC71;#F1C40F;#3498DB;#9B59B6;#1ABC9C;#ECF0F1
+ColorPalette=#2c3e50;#e74c3c;#2ecc71;#f1c40f;#3498db;#9b59b6;#1abc9c;#e0e0e0;#95a5a6;#e74c3c;#2ecc71;#f1c40f;#3498db;#9b59b6;#1abc9c;#ecf0f1

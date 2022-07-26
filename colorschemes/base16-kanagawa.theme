@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Kanagawa
-ColorForeground=#DCD7BA
-ColorBackground=#1F1F28
+ColorForeground=#dcd7ba
+ColorBackground=#1f1f28
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1F1F28;#C34043;#76946A;#C0A36E;#7E9CD8;#957FB8;#6A9589;#DCD7BA;#54546D;#C34043;#76946A;#C0A36E;#7E9CD8;#957FB8;#6A9589;#717C7C
+ColorPalette=#1f1f28;#c34043;#76946a;#c0a36e;#7e9cd8;#957fb8;#6a9589;#dcd7ba;#54546d;#c34043;#76946a;#c0a36e;#7e9cd8;#957fb8;#6a9589;#717c7c

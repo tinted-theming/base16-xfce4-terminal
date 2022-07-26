@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-XCode Dusk
 ColorForeground=#939599
-ColorBackground=#282B35
+ColorBackground=#282b35
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#282B35;#B21889;#DF0002;#438288;#790EAD;#B21889;#00A0BE;#939599;#686A71;#B21889;#DF0002;#438288;#790EAD;#B21889;#00A0BE;#BEBFC2
+ColorPalette=#282b35;#b21889;#df0002;#438288;#790ead;#b21889;#00a0be;#939599;#686a71;#b21889;#df0002;#438288;#790ead;#b21889;#00a0be;#bebfc2

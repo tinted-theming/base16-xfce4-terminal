@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Brush Trees.16
-ColorForeground=#6D828E
-ColorBackground=#E3EFEF
+ColorForeground=#6d828e
+ColorBackground=#e3efef
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#C9DBDC;#b38686;#87b386;#aab386;#868cb3;#b39f9f;#86b3b3;#5A6D7A;#E3EFEF;#d8bba2;#B0C5C8;#98AFB5;#8299A1;#b386b2;#6D828E;#485867
+ColorPalette=#c9dbdc;#b38686;#87b386;#aab386;#868cb3;#b39f9f;#86b3b3;#5a6d7a;#e3efef;#d8bba2;#b0c5c8;#98afb5;#8299a1;#b386b2;#6d828e;#485867

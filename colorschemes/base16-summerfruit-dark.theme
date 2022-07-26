@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Summerfruit Dark
-ColorForeground=#D0D0D0
+ColorForeground=#d0d0d0
 ColorBackground=#151515
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#151515;#FF0086;#00C918;#ABA800;#3777E6;#AD00A1;#1FAAAA;#D0D0D0;#505050;#FF0086;#00C918;#ABA800;#3777E6;#AD00A1;#1FAAAA;#FFFFFF
+ColorPalette=#151515;#ff0086;#00c918;#aba800;#3777e6;#ad00a1;#1faaaa;#d0d0d0;#505050;#ff0086;#00c918;#aba800;#3777e6;#ad00a1;#1faaaa;#ffffff

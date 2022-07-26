@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Solar Flare
-ColorForeground=#A6AFB8
-ColorBackground=#18262F
+ColorForeground=#a6afb8
+ColorBackground=#18262f
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#18262F;#EF5253;#7CC844;#E4B51C;#33B5E1;#A363D5;#52CBB0;#A6AFB8;#667581;#EF5253;#7CC844;#E4B51C;#33B5E1;#A363D5;#52CBB0;#F5F7FA
+ColorPalette=#18262f;#ef5253;#7cc844;#e4b51c;#33b5e1;#a363d5;#52cbb0;#a6afb8;#667581;#ef5253;#7cc844;#e4b51c;#33b5e1;#a363d5;#52cbb0;#f5f7fa

@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-OceanicNext
-ColorForeground=#C0C5CE
-ColorBackground=#1B2B34
+ColorForeground=#c0c5ce
+ColorBackground=#1b2b34
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1B2B34;#EC5f67;#99C794;#FAC863;#6699CC;#C594C5;#5FB3B3;#C0C5CE;#65737E;#EC5f67;#99C794;#FAC863;#6699CC;#C594C5;#5FB3B3;#D8DEE9
+ColorPalette=#1b2b34;#ec5f67;#99c794;#fac863;#6699cc;#c594c5;#5fb3b3;#c0c5ce;#65737e;#ec5f67;#99c794;#fac863;#6699cc;#c594c5;#5fb3b3;#d8dee9

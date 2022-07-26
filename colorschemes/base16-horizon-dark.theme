@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Horizon Dark
-ColorForeground=#CBCED0
-ColorBackground=#1C1E26
+ColorForeground=#cbced0
+ColorBackground=#1c1e26
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1C1E26;#E93C58;#EFAF8E;#EFB993;#DF5273;#B072D1;#24A8B4;#CBCED0;#6F6F70;#E93C58;#EFAF8E;#EFB993;#DF5273;#B072D1;#24A8B4;#E3E6EE
+ColorPalette=#1c1e26;#e93c58;#efaf8e;#efb993;#df5273;#b072d1;#24a8b4;#cbced0;#6f6f70;#e93c58;#efaf8e;#efb993;#df5273;#b072d1;#24a8b4;#e3e6ee

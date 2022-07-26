@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Material Lighter
-ColorForeground=#80CBC4
-ColorBackground=#FAFAFA
+ColorForeground=#80cbc4
+ColorBackground=#fafafa
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#FAFAFA;#FF5370;#91B859;#FFB62C;#6182B8;#7C4DFF;#39ADB5;#80CBC4;#CCD7DA;#FF5370;#91B859;#FFB62C;#6182B8;#7C4DFF;#39ADB5;#FFFFFF
+ColorPalette=#fafafa;#ff5370;#91b859;#ffb62c;#6182b8;#7c4dff;#39adb5;#80cbc4;#ccd7da;#ff5370;#91b859;#ffb62c;#6182b8;#7c4dff;#39adb5;#ffffff

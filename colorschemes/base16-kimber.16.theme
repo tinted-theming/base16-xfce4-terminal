@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Kimber.16
-ColorForeground=#DEDEE7
+ColorForeground=#dedee7
 ColorBackground=#222222
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#313131;#C88C8C;#99C899;#D8B56D;#537C9C;#704F4F;#78B4B4;#C3C3B4;#222222;#476C88;#555D55;#644646;#5A5A5A;#86CACD;#DEDEE7;#FFFFE6
+ColorPalette=#313131;#c88c8c;#99c899;#d8b56d;#537c9c;#704f4f;#78b4b4;#c3c3b4;#222222;#476c88;#555d55;#644646;#5a5a5a;#86cacd;#dedee7;#ffffe6

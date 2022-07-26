@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Material Darker
-ColorForeground=#EEFFFF
+ColorForeground=#eeffff
 ColorBackground=#212121
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#212121;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#EEFFFF;#4A4A4A;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
+ColorPalette=#212121;#f07178;#c3e88d;#ffcb6b;#82aaff;#c792ea;#89ddff;#eeffff;#4a4a4a;#f07178;#c3e88d;#ffcb6b;#82aaff;#c792ea;#89ddff;#ffffff

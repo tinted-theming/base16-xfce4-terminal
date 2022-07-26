@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Blue Forest
-ColorForeground=#FFCC33
-ColorBackground=#141F2E
+ColorForeground=#ffcc33
+ColorBackground=#141f2e
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#141F2E;#fffab1;#80ff80;#91CCFF;#a2cff5;#0099FF;#80ff80;#FFCC33;#a0ffa0;#fffab1;#80ff80;#91CCFF;#a2cff5;#0099FF;#80ff80;#375780
+ColorPalette=#141f2e;#fffab1;#80ff80;#91ccff;#a2cff5;#0099ff;#80ff80;#ffcc33;#a0ffa0;#fffab1;#80ff80;#91ccff;#a2cff5;#0099ff;#80ff80;#375780

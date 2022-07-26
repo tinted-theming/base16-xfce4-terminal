@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Embers.16
-ColorForeground=#A39A90
-ColorBackground=#16130F
+ColorForeground=#a39a90
+ColorBackground=#16130f
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2C2620;#826D57;#57826D;#6D8257;#6D5782;#825757;#576D82;#BEB6AE;#16130F;#828257;#433B32;#5A5047;#8A8075;#82576D;#A39A90;#DBD6D1
+ColorPalette=#2c2620;#826d57;#57826d;#6d8257;#6d5782;#825757;#576d82;#beb6ae;#16130f;#828257;#433b32;#5a5047;#8a8075;#82576d;#a39a90;#dbd6d1

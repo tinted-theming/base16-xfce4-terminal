@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-ShadeSmear Light.16
 ColorForeground=#232323
-ColorBackground=#DBDBDB
+ColorBackground=#dbdbdb
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#E4E4E4;#CC5450;#71983B;#307878;#376388;#6D6D6D;#C57D42;#1C1C1C;#DBDBDB;#A64270;#C0C0C0;#4E4E4E;#1C1C1C;#D7AB54;#232323;#E4E4E4
+ColorPalette=#e4e4e4;#cc5450;#71983b;#307878;#376388;#6d6d6d;#c57d42;#1c1c1c;#dbdbdb;#a64270;#c0c0c0;#4e4e4e;#1c1c1c;#d7ab54;#232323;#e4e4e4

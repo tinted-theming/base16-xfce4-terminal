@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Nova.16
-ColorForeground=#C5D4DD
-ColorBackground=#3C4C55
+ColorForeground=#c5d4dd
+ColorBackground=#3c4c55
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#556873;#83AFE5;#7FC1CA;#A8CE93;#83AFE5;#F2C38F;#F2C38F;#899BA6;#3C4C55;#7FC1CA;#6A7D89;#899BA6;#899BA6;#9A93E1;#C5D4DD;#556873
+ColorPalette=#556873;#83afe5;#7fc1ca;#a8ce93;#83afe5;#f2c38f;#f2c38f;#899ba6;#3c4c55;#7fc1ca;#6a7d89;#899ba6;#899ba6;#9a93e1;#c5d4dd;#556873

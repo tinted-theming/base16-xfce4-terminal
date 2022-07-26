@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Apprentice.16
-ColorForeground=#BCBCBC
+ColorForeground=#bcbcbc
 ColorBackground=#262626
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#303030;#5F8787;#87AF87;#5F8787;#FFFFAF;#5F87AF;#5F875F;#C9C9C9;#262626;#FF8700;#333333;#6C6C6C;#787878;#87AFD7;#BCBCBC;#FFFFFF
+ColorPalette=#303030;#5f8787;#87af87;#5f8787;#ffffaf;#5f87af;#5f875f;#c9c9c9;#262626;#ff8700;#333333;#6c6c6c;#787878;#87afd7;#bcbcbc;#ffffff

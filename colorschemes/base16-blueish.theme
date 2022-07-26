@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Blueish
-ColorForeground=#C8E1F8
+ColorForeground=#c8e1f8
 ColorBackground=#182430
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#182430;#4CE587;#C3E88D;#82AAFF;#82AAFF;#FF84DD;#5FD1FF;#C8E1F8;#616D78;#4CE587;#C3E88D;#82AAFF;#82AAFF;#FF84DD;#5FD1FF;#8F98A0
+ColorPalette=#182430;#4ce587;#c3e88d;#82aaff;#82aaff;#ff84dd;#5fd1ff;#c8e1f8;#616d78;#4ce587;#c3e88d;#82aaff;#82aaff;#ff84dd;#5fd1ff;#8f98a0

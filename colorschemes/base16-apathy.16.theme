@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Apathy.16
-ColorForeground=#81B5AC
-ColorBackground=#031A16
+ColorForeground=#81b5ac
+ColorBackground=#031a16
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#0B342D;#3E9688;#883E96;#3E4C96;#96883E;#3E965B;#963E4C;#A7CEC8;#031A16;#3E7996;#184E45;#2B685E;#5F9C92;#4C963E;#81B5AC;#D2E7E4
+ColorPalette=#0b342d;#3e9688;#883e96;#3e4c96;#96883e;#3e965b;#963e4c;#a7cec8;#031a16;#3e7996;#184e45;#2b685e;#5f9c92;#4c963e;#81b5ac;#d2e7e4

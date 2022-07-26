@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Nord.16
-ColorForeground=#E5E9F0
-ColorBackground=#2E3440
+ColorForeground=#e5e9f0
+ColorBackground=#2e3440
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#3B4252;#BF616A;#A3BE8C;#EBCB8B;#81A1C1;#5E81AC;#88C0D0;#ECEFF4;#2E3440;#D08770;#434C5E;#4C566A;#D8DEE9;#B48EAD;#E5E9F0;#8FBCBB
+ColorPalette=#3b4252;#bf616a;#a3be8c;#ebcb8b;#81a1c1;#5e81ac;#88c0d0;#eceff4;#2e3440;#d08770;#434c5e;#4c566a;#d8dee9;#b48ead;#e5e9f0;#8fbcbb

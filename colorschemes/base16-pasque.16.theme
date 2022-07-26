@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Pasque.16
-ColorForeground=#DEDCDF
-ColorBackground=#271C3A
+ColorForeground=#dedcdf
+ColorBackground=#271c3a
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#100323;#A92258;#C6914B;#804ead;#8E7DC6;#59325C;#7263AA;#EDEAEF;#271C3A;#918889;#3E2D5C;#5D5766;#BEBCBF;#953B9D;#DEDCDF;#BBAADD
+ColorPalette=#100323;#a92258;#c6914b;#804ead;#8e7dc6;#59325c;#7263aa;#edeaef;#271c3a;#918889;#3e2d5c;#5d5766;#bebcbf;#953b9d;#dedcdf;#bbaadd

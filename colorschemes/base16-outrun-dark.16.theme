@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Outrun Dark.16
-ColorForeground=#D0D0FA
-ColorBackground=#00002A
+ColorForeground=#d0d0fa
+ColorBackground=#00002a
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#20204A;#FF4242;#59F176;#F3E877;#66B0FF;#F003EF;#0EF0F0;#E0E0FF;#00002A;#FC8D28;#30305A;#50507A;#B0B0DA;#F10596;#D0D0FA;#F5F5FF
+ColorPalette=#20204a;#ff4242;#59f176;#f3e877;#66b0ff;#f003ef;#0ef0f0;#e0e0ff;#00002a;#fc8d28;#30305a;#50507a;#b0b0da;#f10596;#d0d0fa;#f5f5ff

@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Material Palenight
-ColorForeground=#959DCB
-ColorBackground=#292D3E
+ColorForeground=#959dcb
+ColorBackground=#292d3e
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#292D3E;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#959DCB;#676E95;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
+ColorPalette=#292d3e;#f07178;#c3e88d;#ffcb6b;#82aaff;#c792ea;#89ddff;#959dcb;#676e95;#f07178;#c3e88d;#ffcb6b;#82aaff;#c792ea;#89ddff;#ffffff

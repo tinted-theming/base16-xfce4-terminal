@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Materia.16
-ColorForeground=#CDD3DE
+ColorForeground=#cdd3de
 ColorBackground=#263238
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2C393F;#EC5F67;#8BD649;#FFCC00;#89DDFF;#EC5F67;#80CBC4;#D5DBE5;#263238;#EA9560;#37474F;#707880;#C9CCD3;#82AAFF;#CDD3DE;#FFFFFF
+ColorPalette=#2c393f;#ec5f67;#8bd649;#ffcc00;#89ddff;#ec5f67;#80cbc4;#d5dbe5;#263238;#ea9560;#37474f;#707880;#c9ccd3;#82aaff;#cdd3de;#ffffff

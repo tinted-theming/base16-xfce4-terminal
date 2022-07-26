@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Tokyo Night Storm.16
-ColorForeground=#A9B1D6
-ColorBackground=#24283B
+ColorForeground=#a9b1d6
+ColorBackground=#24283b
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#16161E;#C0CAF5;#9ECE6A;#0DB9D7;#2AC3DE;#F7768E;#B4F9F8;#CBCCD1;#24283B;#A9B1D6;#343A52;#444B6A;#787C99;#BB9AF7;#A9B1D6;#D5D6DB
+ColorPalette=#16161e;#c0caf5;#9ece6a;#0db9d7;#2ac3de;#f7768e;#b4f9f8;#cbccd1;#24283b;#a9b1d6;#343a52;#444b6a;#787c99;#bb9af7;#a9b1d6;#d5d6db

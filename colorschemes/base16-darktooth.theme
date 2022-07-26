@@ -1,7 +1,7 @@
 [Scheme]
 Name=Base16-Darktooth
-ColorForeground=#A89984
-ColorBackground=#1D2021
+ColorForeground=#a89984
+ColorBackground=#1d2021
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1D2021;#FB543F;#95C085;#FAC03B;#0D6678;#8F4673;#8BA59B;#A89984;#665C54;#FB543F;#95C085;#FAC03B;#0D6678;#8F4673;#8BA59B;#FDF4C1
+ColorPalette=#1d2021;#fb543f;#95c085;#fac03b;#0d6678;#8f4673;#8ba59b;#a89984;#665c54;#fb543f;#95c085;#fac03b;#0d6678;#8f4673;#8ba59b;#fdf4c1
