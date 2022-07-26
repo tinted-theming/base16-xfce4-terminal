@@ -1,13 +1,24 @@
 # base16-xfce4-terminal
 
-This is a [``template``](https://github.com/chriskempson/base16-templates-source) for [base16](https://github.com/chriskempson/base16) which supports xfce4-terminal
+This is a [base16] template for [xfce4-terminal].
 
 ## Installation
 
-Put the prebuilt ``*.theme`` files from ``colorschemes/`` into ``~/.local/share/xfce4/terminal/colorschemes/`` (create this directory if it does not exist), and the themes will be available under ``Edit > Preferences... > Colors > Presets``
+Put the prebuilt `*.theme` files from `colorschemes/` into
+`~/.local/share/xfce4/terminal/colorschemes/` (create this directory if
+it does not exist), and the themes will be available under `Edit >
+Preferences... > Colors > Presets`
 
-## Manual building
+```shell
+mkdir -p ~/.local/share/xfce4/terminal
+cp -r /path/to/base16-xfce-terminal/colorschemes ~/.local/share/xfce4/terminal
+```
 
-If you want to build the themes under ``colorschemes/`` yourself,
-a ``builder`` like [this](https://github.com/chriskempson/base16-builder-php) is required,
-or use ``build.go``.
+## Contributing
+
+See [`CONTRIBUTING.md`], which contains building and contribution
+instructions.
+
+[base16]: https://github.com/base16-project/home
+[xfce4-terminal]: https://docs.xfce.org/apps/terminal/start
+[`CONTRIBUTING.md`]: CONTRIBUTING.md
