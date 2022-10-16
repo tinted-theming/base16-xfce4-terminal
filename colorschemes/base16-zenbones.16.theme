@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Zenbones.16
+ColorForeground=#b279a7
+ColorBackground=#191919
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#de6e7c;#3d3839;#d68c67;#8bae68;#cf86c1;#8e8e8e;#61abda;#66a5ad;#191919;#e8838f;#819b69;#b77e64;#6099c0;#65b8c1;#b279a7;#bbbbbb
