@@ -1,3 +1,6 @@
+# Scheme name: Mocha
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Mocha
 ColorForeground=#d0c8c6

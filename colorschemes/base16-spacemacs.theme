@@ -1,3 +1,6 @@
+# Scheme name: Spacemacs
+# Scheme author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Spacemacs
 ColorForeground=#a3a3a3

@@ -1,3 +1,6 @@
+# Scheme name: Humanoid dark
+# Scheme author: Thomas (tasmo) Friese
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Humanoid dark
 ColorForeground=#f8f8f2

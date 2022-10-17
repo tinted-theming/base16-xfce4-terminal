@@ -1,3 +1,6 @@
+# Scheme name: Dracula
+# Scheme author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Dracula
 ColorForeground=#e9e9f4

@@ -1,3 +1,6 @@
+# Scheme name: Default Light
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Default Light.16
 ColorForeground=#383838

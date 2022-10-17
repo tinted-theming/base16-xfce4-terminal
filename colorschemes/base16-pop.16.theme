@@ -1,3 +1,6 @@
+# Scheme name: Pop
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Pop.16
 ColorForeground=#d0d0d0

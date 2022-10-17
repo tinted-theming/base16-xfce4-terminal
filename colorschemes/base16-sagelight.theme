@@ -1,3 +1,6 @@
+# Scheme name: Sagelight
+# Scheme author: Carter Veldhuizen
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Sagelight
 ColorForeground=#383838

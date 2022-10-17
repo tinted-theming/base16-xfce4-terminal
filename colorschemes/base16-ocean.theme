@@ -1,3 +1,6 @@
+# Scheme name: Ocean
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Ocean
 ColorForeground=#c0c5ce

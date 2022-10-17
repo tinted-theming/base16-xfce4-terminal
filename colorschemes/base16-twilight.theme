@@ -1,3 +1,6 @@
+# Scheme name: Twilight
+# Scheme author: David Hart (https://github.com/hartbit)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Twilight
 ColorForeground=#a7a7a7

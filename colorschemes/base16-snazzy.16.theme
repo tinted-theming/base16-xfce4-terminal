@@ -1,3 +1,6 @@
+# Scheme name: Snazzy
+# Scheme author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Snazzy.16
 ColorForeground=#e2e4e5

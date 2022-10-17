@@ -1,3 +1,6 @@
+# Scheme name: Marrakesh
+# Scheme author: Alexandre Gavioli (http://github.com/Alexx2/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Marrakesh.16
 ColorForeground=#948e48

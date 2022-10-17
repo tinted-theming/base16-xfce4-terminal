@@ -1,3 +1,6 @@
+# Scheme name: PhD
+# Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-PhD.16
 ColorForeground=#b8bbc2

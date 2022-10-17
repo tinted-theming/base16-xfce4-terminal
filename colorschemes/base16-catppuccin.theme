@@ -1,3 +1,6 @@
+# Scheme name: Catppuccin
+# Scheme author: Pocco81 (https://github.com/pocco81)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Catppuccin
 ColorForeground=#d7dae0

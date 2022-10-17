@@ -1,3 +1,6 @@
+# Scheme name: PaperColor Light
+# Scheme author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-PaperColor Light
 ColorForeground=#444444

@@ -1,3 +1,6 @@
+# Scheme name: Atelier Heath Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Atelier Heath Light
 ColorForeground=#695d69

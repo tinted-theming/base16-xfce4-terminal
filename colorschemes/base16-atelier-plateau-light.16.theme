@@ -1,3 +1,6 @@
+# Scheme name: Atelier Plateau Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Atelier Plateau Light.16
 ColorForeground=#585050

@@ -1,3 +1,6 @@
+# Scheme name: Mexico Light
+# Scheme author: Sheldon Johnson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Mexico Light
 ColorForeground=#383838

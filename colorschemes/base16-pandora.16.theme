@@ -1,3 +1,6 @@
+# Scheme name: pandora
+# Scheme author: Cassandra Fox
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-pandora.16
 ColorForeground=#f15c99

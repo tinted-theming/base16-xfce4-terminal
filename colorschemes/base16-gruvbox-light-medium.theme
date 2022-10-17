@@ -1,3 +1,6 @@
+# Scheme name: Gruvbox light, medium
+# Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Gruvbox light, medium
 ColorForeground=#504945

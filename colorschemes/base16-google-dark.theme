@@ -1,3 +1,6 @@
+# Scheme name: Google Dark
+# Scheme author: Seth Wright (http://sethawright.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Google Dark
 ColorForeground=#c5c8c6

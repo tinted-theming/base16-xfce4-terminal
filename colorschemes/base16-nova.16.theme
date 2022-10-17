@@ -1,3 +1,6 @@
+# Scheme name: Nova
+# Scheme author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Nova.16
 ColorForeground=#c5d4dd

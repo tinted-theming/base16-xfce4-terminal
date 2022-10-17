@@ -1,3 +1,6 @@
+# Scheme name: Woodland
+# Scheme author: Jay Cornwall (https://jcornwall.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Woodland
 ColorForeground=#cabcb1

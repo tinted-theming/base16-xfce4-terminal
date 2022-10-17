@@ -1,3 +1,6 @@
+# Scheme name: Decaf
+# Scheme author: Alex Mirrington (https://github.com/alexmirrington)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Decaf.16
 ColorForeground=#cccccc

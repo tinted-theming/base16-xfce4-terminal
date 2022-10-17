@@ -1,3 +1,6 @@
+# Scheme name: Edge Light
+# Scheme author: cjayross (https://github.com/cjayross)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Edge Light.16
 ColorForeground=#5e646f

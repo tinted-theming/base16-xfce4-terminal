@@ -1,3 +1,6 @@
+# Scheme name: Gigavolt
+# Scheme author: Aidan Swope (http://github.com/Whillikers)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Gigavolt.16
 ColorForeground=#e9e7e1

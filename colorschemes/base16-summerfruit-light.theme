@@ -1,3 +1,6 @@
+# Scheme name: Summerfruit Light
+# Scheme author: Christopher Corley (http://christop.club/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Summerfruit Light
 ColorForeground=#101010

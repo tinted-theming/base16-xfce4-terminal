@@ -1,3 +1,6 @@
+# Scheme name: Helios
+# Scheme author: Alex Meyer (https://github.com/reyemxela)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Helios
 ColorForeground=#d5d5d5

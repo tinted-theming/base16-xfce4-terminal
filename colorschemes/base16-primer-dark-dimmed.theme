@@ -1,3 +1,6 @@
+# Scheme name: Primer Dark Dimmed
+# Scheme author: Jimmy Lin
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Primer Dark Dimmed
 ColorForeground=#909dab

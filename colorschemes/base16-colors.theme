@@ -1,3 +1,6 @@
+# Scheme name: Colors
+# Scheme author: mrmrs (http://clrs.cc)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Colors
 ColorForeground=#bbbbbb

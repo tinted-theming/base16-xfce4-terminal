@@ -1,3 +1,6 @@
+# Scheme name: Eighties
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Eighties.16
 ColorForeground=#d3d0c8

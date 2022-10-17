@@ -1,3 +1,6 @@
+# Scheme name: Green Screen
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Green Screen.16
 ColorForeground=#00bb00

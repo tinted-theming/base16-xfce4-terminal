@@ -1,3 +1,6 @@
+# Scheme name: Bespin
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Bespin.16
 ColorForeground=#8a8986
