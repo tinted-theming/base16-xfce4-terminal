@@ -19,6 +19,6 @@ cp -r /path/to/base16-xfce-terminal/colorschemes ~/.local/share/xfce4/terminal
 See [`CONTRIBUTING.md`], which contains building and contribution
 instructions.
 
-[base16]: https://github.com/base16-project/home
+[base16]: https://github.com/tinted-theming/home
 [xfce4-terminal]: https://docs.xfce.org/apps/terminal/start
 [`CONTRIBUTING.md`]: CONTRIBUTING.md

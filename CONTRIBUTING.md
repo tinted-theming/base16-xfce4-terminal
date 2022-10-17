@@ -43,7 +43,7 @@ Or the above steps represented in shell commands:
 If you have more questions about [base16-builder-go], have a look at
 the information on the GitHub page.
 
-[base16-builder-go]: https://github.com/base16-project/base16-builder-go
-[base16-schemes]: https://github.com/base16-project/base16-schemes
+[base16-builder-go]: https://github.com/tinted-theming/base16-builder-go
+[base16-schemes]: https://github.com/tinted-theming/base16-schemes
 [GitHub Action]: .github/workflows/update.yml
-[latest base16-builder-go binary]: https://github.com/base16-project/base16-builder-go/releases
+[latest base16-builder-go binary]: https://github.com/tinted-theming/base16-builder-go/releases
