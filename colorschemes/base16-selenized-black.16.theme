@@ -1,0 +1,10 @@
+# Scheme name: selenized-black
+# Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-selenized-black.16
+ColorForeground=#b9b9b9
+ColorBackground=#181818
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#252525;#ed4a46;#70b433;#dbb32d;#368aeb;#eb6eb7;#3fc5b7;#dedede;#181818;#e67f43;#3b3b3b;#777777;#777777;#a580e2;#b9b9b9;#dedede
