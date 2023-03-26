@@ -3,8 +3,8 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Apprentice.16
-ColorForeground=#bcbcbc
+ColorForeground=#5f5f87
 ColorBackground=#262626
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#303030;#5f8787;#87af87;#5f8787;#ffffaf;#5f87af;#5f875f;#c9c9c9;#262626;#ff8700;#333333;#6c6c6c;#787878;#87afd7;#bcbcbc;#ffffff
+ColorPalette=#af5f5f;#444444;#ffffaf;#87af87;#8787af;#bcbcbc;#87afd7;#5f8787;#262626;#ff8700;#5f875f;#87875f;#5f87af;#5fafaf;#5f5f87;#6c6c6c

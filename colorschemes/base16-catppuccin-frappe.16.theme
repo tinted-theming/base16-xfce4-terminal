@@ -1,0 +1,10 @@
+# Scheme name: Catppuccin Frappe
+# Scheme author: https://github.com/catppuccin/catppuccin
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Catppuccin Frappe.16
+ColorForeground=#c6d0f5
+ColorBackground=#303446
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#292c3c;#e78284;#a6d189;#e5c890;#8caaee;#eebebe;#81c8be;#f2d5cf;#303446;#ef9f76;#414559;#51576d;#626880;#ca9ee6;#c6d0f5;#babbf1

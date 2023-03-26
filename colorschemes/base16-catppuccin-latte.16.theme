@@ -1,0 +1,10 @@
+# Scheme name: Catppuccin Latte
+# Scheme author: https://github.com/catppuccin/catppuccin
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Catppuccin Latte.16
+ColorForeground=#4c4f69
+ColorBackground=#eff1f5
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#e6e9ef;#d20f39;#40a02b;#df8e1d;#1e66f5;#dd7878;#179299;#dc8a78;#eff1f5;#fe640b;#ccd0da;#bcc0cc;#acb0be;#8839ef;#4c4f69;#7287fd
