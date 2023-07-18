@@ -1,5 +1,5 @@
 # Scheme name: Rosé Pine Dawn
-# Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Rosé Pine Dawn.16
@@ -7,4 +7,4 @@ ColorForeground=#575279
 ColorBackground=#faf4ed
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#fffaf3;#1f1d2e;#d7827e;#ea9d34;#56949f;#c5c3ce;#286983;#555169;#faf4ed;#b4637a;#f2e9de;#9893a5;#6e6a86;#907aa9;#575279;#26233a
+ColorPalette=#fffaf3;#b4637a;#286983;#d7827e;#907aa9;#cecacd;#56949f;#575279;#faf4ed;#ea9d34;#f2e9de;#9893a5;#797593;#ea9d34;#575279;#cecacd
