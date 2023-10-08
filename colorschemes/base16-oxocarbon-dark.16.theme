@@ -1,0 +1,10 @@
+# Scheme name: Oxocarbon Dark
+# Scheme author: shaunsingh/IBM
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Oxocarbon Dark.16
+ColorForeground=#f2f4f8
+ColorBackground=#161616
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#262626;#3ddbd9;#33b1ff;#ee5396;#42be65;#82cfff;#ff7eb6;#ffffff;#161616;#78a9ff;#393939;#525252;#dde1e6;#be95ff;#f2f4f8;#08bdba

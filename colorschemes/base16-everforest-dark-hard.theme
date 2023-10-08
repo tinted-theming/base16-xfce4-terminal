@@ -1,0 +1,10 @@
+# Scheme name: Everforest Dark Hard
+# Scheme author: Oskar Liew (https://github.com/OskarLiew)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Everforest Dark Hard
+ColorForeground=#d3c6aa
+ColorBackground=#272e33
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#272e33;#7fbbb3;#83c092;#dbbc7f;#a7c080;#e67e80;#e69875;#d3c6aa;#859289;#7fbbb3;#83c092;#dbbc7f;#a7c080;#e67e80;#e69875;#fdf6e3
