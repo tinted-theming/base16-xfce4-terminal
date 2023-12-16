@@ -1,0 +1,10 @@
+# Scheme name: tarot
+# Scheme author: ed (https://codeberg.org/ed)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-tarot.16
+ColorForeground=#aa556f
+ColorBackground=#0e091d
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2a153c;#c53253;#a68e5a;#ff6565;#6e6080;#984d51;#8c9785;#c4686d;#0e091d;#ea4d60;#4b2054;#74316b;#8c406f;#a45782;#aa556f;#dc8f7c

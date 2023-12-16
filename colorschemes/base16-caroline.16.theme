@@ -1,0 +1,10 @@
+# Scheme name: caroline
+# Scheme author: ed (https://codeberg.org/ed)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-caroline.16
+ColorForeground=#a87569
+ColorBackground=#1c1213
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#3a2425;#c24f57;#806c61;#f28171;#684c59;#893f45;#6b6566;#c58d7b;#1c1213;#a63650;#563837;#6d4745;#8b5d57;#a63650;#a87569;#e3a68c
