@@ -1,0 +1,10 @@
+# Scheme name: Measured Light
+# Scheme author: Measured (https://measured.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Measured Light.16
+ColorForeground=#292929
+ColorBackground=#fdf9f5
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#f9f5f1;#ac1f35;#0c680c;#645a00;#0158ad;#a81a66;#01716f;#181818;#fdf9f5;#ad5601;#ffeada;#5a5a5a;#404040;#6645c2;#292929;#000000

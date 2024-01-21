@@ -1,0 +1,10 @@
+# Scheme name: Measured Dark
+# Scheme author: Measured (https://measured.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Measured Dark.16
+ColorForeground=#dcdcdc
+ColorBackground=#00211f
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#003a38;#ce7e8e;#56c16f;#bfac4e;#88b0da;#d89aba;#62c0be;#efefef;#00211f;#dca37c;#005453;#ababab;#c3c3c3;#b39be0;#dcdcdc;#f5f5f5
