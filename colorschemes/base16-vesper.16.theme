@@ -1,0 +1,10 @@
+# Scheme name: Vesper
+# Scheme author: FormalSnake (https://github.com/formalsnake)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Vesper.16
+ColorForeground=#b7b7b7
+ColorBackground=#101010
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#232323;#de6e6e;#5f8787;#ffc799;#8eaaaa;#876c4f;#60a592;#c1c1c1;#101010;#dab083;#222222;#333333;#999999;#d69094;#b7b7b7;#d5d5d5
