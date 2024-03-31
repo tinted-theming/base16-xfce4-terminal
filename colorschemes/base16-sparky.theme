@@ -1,0 +1,10 @@
+# Scheme name: Sparky
+# Scheme author: Leila Sother (https://github.com/mixcoac)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Sparky
+ColorForeground=#f4f5f0
+ColorBackground=#072b31
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#072b31;#ff585d;#78d64b;#fbdd40;#4698cb;#d59ed7;#2dccd3;#f4f5f0;#003b49;#ff585d;#78d64b;#fbdd40;#4698cb;#d59ed7;#2dccd3;#ffffff

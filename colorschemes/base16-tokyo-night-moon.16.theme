@@ -1,0 +1,10 @@
+# Scheme name: Tokyo Night Moon
+# Scheme author: Ólafur Bjarki Bogason
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Tokyo Night Moon.16
+ColorForeground=#3b4261
+ColorBackground=#222436
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#1e2030;#ff757f;#c3e88d;#ffc777;#82aaff;#c53b53;#86e1fc;#828bb8;#222436;#ffc777;#2d3f76;#636da6;#828bb8;#fca7ea;#3b4261;#c8d3f5
