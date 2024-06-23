@@ -1,0 +1,10 @@
+# Scheme name: Moonlight
+# Scheme author: Jeremy Swinarton (https://github.com/jswinarton)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Moonlight.16
+ColorForeground=#a3ace1
+ColorBackground=#212337
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#403c64;#ff5370;#2df4c0;#ffc777;#40ffff;#ecb2f0;#04d1f9;#b4a4f4;#212337;#f67f81;#596399;#748cd6;#a1abe0;#b994f1;#a3ace1;#ef43fa

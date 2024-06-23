@@ -1,0 +1,10 @@
+# Scheme name: Precious Light Warm
+# Scheme author: 4lex4 &lt;4lex49@zoho.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Precious Light Warm.16
+ColorForeground=#4e5359
+ColorBackground=#fff5e5
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#ece4d6;#b14745;#557300;#876500;#246da5;#a83f92;#0e7767;#4e5359;#fff5e5;#a25600;#d9d3c8;#7f8080;#5d6065;#7a50c6;#4e5359;#4e5359
