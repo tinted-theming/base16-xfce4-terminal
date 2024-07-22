@@ -8,42 +8,22 @@ automatically.
 
 ### Dependencies
 
-- `>=0.2.6` [base16-builder-go]
+- `>=0.9.3` [tinted-builder-rust]
 
 ### Usage for template editing
 
-1. Clone the template repository onto your system
-1. Download the [latest base16-builder-go binary]
-1. Execute the binary with the `-template-dir` arg and provide
-   `/path/to/base16-xfce4-terminal` 
-
-Or the above steps represented in shell commands:
-
-```shell 
-/path/to/base16-builder-go-binary \
-  -template-dir "/path/to/base16-xfce4-terminal
-```
+1. Install [tinted-builder-rust]
+1. `tinted-builder-rust build path/to/base16-xfce4-terminal`
 
 ### Usage for adding or editing a colorscheme
 
-1. Clone the base16-xfce4-terminal
-1. Clone [base16-schemes]
-1. Download the [latest base16-builder-go binary]
-1. Execute the binary with 
-  - `-schemes-dir` arg - provide `/path/to/base16-scehemes`
-  - `-template-dir` arg - provide `/path/to/base16-xfce4-terminal`
-    `base16-xfce4-terminal` repository)
+1. Clone base16-xfce4-terminal
+1. Install [tinted-builder-rust]
+1. Execute `tinted-builder-rust build path/to/base16-xfce4-terminal`
 
-```shell
-/path/to/base16-builder-go-binary \
-  -schemes-dir /path/to/base16-schemes \
-  -template-dir "/path/to/base16-xfce4-terminal
-```
-
-If you have more questions about [base16-builder-go], have a look at
+If you have more questions about [tinted-builder-rust], have a look at
 the information on the GitHub page.
 
-[base16-builder-go]: https://github.com/tinted-theming/base16-builder-go
-[base16-schemes]: https://github.com/tinted-theming/base16-schemes
+[tinted-builder-rust]: https://github.com/tinted-theming/tinted-builder-rust
+[tinted-schemes]: https://github.com/tinted-theming/schemes
 [GitHub Action]: .github/workflows/update.yml
-[latest base16-builder-go binary]: https://github.com/tinted-theming/base16-builder-go/releases

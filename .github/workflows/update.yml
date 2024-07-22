@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_ACCESS_TOKEN }}
       - name: Update schemes
-        uses: tinted-theming/base16-builder-go@latest
+        uses: tinted-theming/tinted-builder-rust@latest
       - name: Commit the changes, if any
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # v4.14.1
         with:
