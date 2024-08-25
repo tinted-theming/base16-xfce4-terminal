@@ -4,7 +4,7 @@
 [Scheme]
 Name=Base16-Everforest.16
 ColorForeground=#d3c6aa
-ColorBackground=#2f383e
+ColorBackground=#2d353b
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#374247;#7fbbb3;#83c092;#dbbc7f;#a7c080;#eaedc8;#e69875;#e4e1cd;#2f383e;#d699b6;#4a555b;#859289;#9da9a0;#e67e80;#d3c6aa;#fdf6e3
+ColorPalette=#343f44;#e67e80;#a7c080;#dbbc7f;#7fbbb3;#9da9a0;#83c092;#e6e2cc;#2d353b;#e69875;#475258;#859289;#9da9a0;#d699b6;#d3c6aa;#fdf6e3

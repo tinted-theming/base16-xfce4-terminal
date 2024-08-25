@@ -1,0 +1,10 @@
+# Scheme name: Terracotta
+# Scheme author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Terracotta.16
+ColorForeground=#473731
+ColorBackground=#efeae8
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#dfd6d1;#a75045;#7a894a;#ce943e;#625574;#b07158;#847f9e;#352a25;#efeae8;#bd6942;#d0c1bb;#c0aca4;#59453d;#8d5968;#473731;#241c19

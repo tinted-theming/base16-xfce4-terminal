@@ -1,0 +1,10 @@
+# Scheme name: OneDark Dark
+# Scheme author: olimorris (https://github.com/olimorris)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-OneDark Dark.16
+ColorForeground=#abb2bf
+ColorBackground=#000000
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#1c1f24;#ef596f;#89ca78;#e5c07b;#61afef;#be5046;#2bbac5;#b6bdca;#000000;#d19a66;#2c313a;#434852;#565c64;#d55fde;#abb2bf;#c8ccd4
