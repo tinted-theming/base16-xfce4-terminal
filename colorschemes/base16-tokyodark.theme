@@ -1,10 +1,10 @@
 # Scheme name: Tokyodark
-# Scheme author: Tiagovla (https://github.com/tiagovla/)
+# Scheme author: Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
 Name=Base16-Tokyodark
-ColorForeground=#abb2bf
+ColorForeground=#a0a8cd
 ColorBackground=#11121d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#11121d;#a485dd;#d7a65f;#7199ee;#95c561;#ee6d85;#a485dd;#abb2bf;#393a45;#a485dd;#d7a65f;#7199ee;#95c561;#ee6d85;#a485dd;#2c2d38
+ColorPalette=#11121d;#ee6d85;#95c561;#d7a65f;#7199ee;#a485dd;#9fbbf3;#a0a8cd;#353945;#ee6d85;#95c561;#d7a65f;#7199ee;#a485dd;#9fbbf3;#bcc2dc
