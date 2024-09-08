@@ -1,0 +1,10 @@
+# Scheme name: Deep Oceanic Next
+# Scheme author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Deep Oceanic Next
+ColorForeground=#dce3e8
+ColorBackground=#003b46
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#003b46;#e6454b;#85b57a;#ffcc66;#3a82e6;#8c4de6;#4da6a6;#dce3e8;#007a8a;#e6454b;#85b57a;#ffcc66;#3a82e6;#8c4de6;#4da6a6;#f0f5f5
