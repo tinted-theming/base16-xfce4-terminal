@@ -2,9 +2,9 @@
 # Scheme author: Fergus Collins (https://github.com/C-Fergus)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Windows NT Light
+Name=base16-windows-nt-light
 ColorForeground=#808080
 ColorBackground=#ffffff
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#ffffff;#800000;#008000;#808000;#000080;#800080;#008080;#808080;#c0c0c0;#800000;#008000;#808000;#000080;#800080;#008080;#000000
+ColorPalette=#ffffff;#800000;#008000;#808000;#000080;#800080;#008080;#808080;#d5d5d5;#800000;#008000;#808000;#000080;#800080;#008080;#000000

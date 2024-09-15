@@ -2,9 +2,9 @@
 # Scheme author: Kyle Giammarco (http://kyle.giammar.co)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-ShadeSmear Light
+Name=base16-shadesmear-light
 ColorForeground=#232323
 ColorBackground=#dbdbdb
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#dbdbdb;#cc5450;#71983b;#307878;#376388;#d7ab54;#c57d42;#232323;#4e4e4e;#cc5450;#71983b;#307878;#376388;#d7ab54;#c57d42;#e4e4e4
+ColorPalette=#dbdbdb;#cc5450;#71983b;#307878;#376388;#d7ab54;#c57d42;#232323;#c0c0c0;#cc5450;#71983b;#307878;#376388;#d7ab54;#c57d42;#e4e4e4

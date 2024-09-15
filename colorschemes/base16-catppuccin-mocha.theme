@@ -2,9 +2,9 @@
 # Scheme author: https://github.com/catppuccin/catppuccin
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Catppuccin Mocha
+Name=base16-catppuccin-mocha
 ColorForeground=#cdd6f4
 ColorBackground=#1e1e2e
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1e1e2e;#f38ba8;#a6e3a1;#f9e2af;#89b4fa;#cba6f7;#94e2d5;#cdd6f4;#45475a;#f38ba8;#a6e3a1;#f9e2af;#89b4fa;#cba6f7;#94e2d5;#b4befe
+ColorPalette=#1e1e2e;#f38ba8;#a6e3a1;#f9e2af;#89b4fa;#cba6f7;#94e2d5;#cdd6f4;#313244;#f38ba8;#a6e3a1;#f9e2af;#89b4fa;#cba6f7;#94e2d5;#b4befe

@@ -2,9 +2,9 @@
 # Scheme author: Aidan Swope (http://github.com/Whillikers)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Gigavolt
+Name=base16-gigavolt
 ColorForeground=#e9e7e1
 ColorBackground=#202126
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#202126;#ff661a;#f2e6a9;#ffdc2d;#40bfff;#ae94f9;#fb6acb;#e9e7e1;#a1d2e6;#ff661a;#f2e6a9;#ffdc2d;#40bfff;#ae94f9;#fb6acb;#f2fbff
+ColorPalette=#202126;#ff661a;#f2e6a9;#ffdc2d;#40bfff;#ae94f9;#fb6acb;#e9e7e1;#5a576e;#ff661a;#f2e6a9;#ffdc2d;#40bfff;#ae94f9;#fb6acb;#f2fbff

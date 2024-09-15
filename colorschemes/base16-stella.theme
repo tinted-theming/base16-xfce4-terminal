@@ -2,9 +2,9 @@
 # Scheme author: Shrimpram
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Stella
+Name=base16-stella
 ColorForeground=#998bad
 ColorBackground=#2b213c
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2b213c;#c79987;#acc79b;#c7c691;#a5aad4;#c594ff;#9bc7bf;#998bad;#655978;#c79987;#acc79b;#c7c691;#a5aad4;#c594ff;#9bc7bf;#ebdcff
+ColorPalette=#2b213c;#c79987;#acc79b;#c7c691;#a5aad4;#c594ff;#9bc7bf;#998bad;#4d4160;#c79987;#acc79b;#c7c691;#a5aad4;#c594ff;#9bc7bf;#ebdcff

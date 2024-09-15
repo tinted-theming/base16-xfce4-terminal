@@ -2,7 +2,7 @@
 # Scheme author: isaacwhanson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Qualia
+Name=base16-qualia
 ColorForeground=#c0c0c0
 ColorBackground=#101010
 ColorCursor=x

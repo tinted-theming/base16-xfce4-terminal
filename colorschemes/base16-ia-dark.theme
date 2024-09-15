@@ -2,9 +2,9 @@
 # Scheme author: iA Inc. (modified by aramisgithub)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-iA Dark
+Name=base16-ia-dark
 ColorForeground=#cccccc
 ColorBackground=#1a1a1a
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1a1a1a;#d88568;#83a471;#b99353;#8eccdd;#b98eb2;#7c9cae;#cccccc;#767676;#d88568;#83a471;#b99353;#8eccdd;#b98eb2;#7c9cae;#f8f8f8
+ColorPalette=#1a1a1a;#d88568;#83a471;#b99353;#8eccdd;#b98eb2;#7c9cae;#cccccc;#1d414d;#d88568;#83a471;#b99353;#8eccdd;#b98eb2;#7c9cae;#f8f8f8

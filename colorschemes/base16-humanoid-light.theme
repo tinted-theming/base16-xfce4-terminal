@@ -2,9 +2,9 @@
 # Scheme author: Thomas (tasmo) Friese
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Humanoid light
+Name=base16-humanoid-light
 ColorForeground=#232629
 ColorBackground=#f8f8f2
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#f8f8f2;#b0151a;#388e3c;#ffb627;#0082c9;#700f98;#008e8e;#232629;#c0c0bd;#b0151a;#388e3c;#ffb627;#0082c9;#700f98;#008e8e;#070708
+ColorPalette=#f8f8f2;#b0151a;#388e3c;#ffb627;#0082c9;#700f98;#008e8e;#232629;#deded8;#b0151a;#388e3c;#ffb627;#0082c9;#700f98;#008e8e;#070708

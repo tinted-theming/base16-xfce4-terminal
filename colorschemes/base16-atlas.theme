@@ -2,9 +2,9 @@
 # Scheme author: Alex Lende (https://ajlende.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Atlas
+Name=base16-atlas
 ColorForeground=#a1a19a
 ColorBackground=#002635
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#002635;#ff5a67;#7fc06e;#ffcc1b;#14747e;#9a70a4;#5dd7b9;#a1a19a;#6c8b91;#ff5a67;#7fc06e;#ffcc1b;#14747e;#9a70a4;#5dd7b9;#fafaf8
+ColorPalette=#002635;#ff5a67;#7fc06e;#ffcc1b;#14747e;#9a70a4;#5dd7b9;#a1a19a;#517f8d;#ff5a67;#7fc06e;#ffcc1b;#14747e;#9a70a4;#5dd7b9;#fafaf8

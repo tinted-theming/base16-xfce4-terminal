@@ -2,9 +2,9 @@
 # Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Gruvbox light, soft
+Name=base16-gruvbox-light-soft
 ColorForeground=#504945
 ColorBackground=#f2e5bc
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#f2e5bc;#9d0006;#79740e;#b57614;#076678;#8f3f71;#427b58;#504945;#bdae93;#9d0006;#79740e;#b57614;#076678;#8f3f71;#427b58;#282828
+ColorPalette=#f2e5bc;#9d0006;#79740e;#b57614;#076678;#8f3f71;#427b58;#504945;#d5c4a1;#9d0006;#79740e;#b57614;#076678;#8f3f71;#427b58;#282828

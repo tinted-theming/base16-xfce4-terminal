@@ -2,9 +2,9 @@
 # Scheme author: Kahlil (Kal) Hodgson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-dirtysea
+Name=base16-dirtysea
 ColorForeground=#000000
 ColorBackground=#e0e0e0
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#e0e0e0;#840000;#730073;#755b00;#007300;#000090;#755b00;#000000;#707070;#840000;#730073;#755b00;#007300;#000090;#755b00;#c4d9c4
+ColorPalette=#e0e0e0;#840000;#730073;#755b00;#007300;#000090;#755b00;#000000;#d0d0d0;#840000;#730073;#755b00;#007300;#000090;#755b00;#c4d9c4

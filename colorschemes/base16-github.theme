@@ -2,9 +2,9 @@
 # Scheme author: Defman21
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Github
+Name=base16-github
 ColorForeground=#333333
 ColorBackground=#ffffff
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#ffffff;#ed6a43;#183691;#795da3;#795da3;#a71d5d;#183691;#333333;#969896;#ed6a43;#183691;#795da3;#795da3;#a71d5d;#183691;#ffffff
+ColorPalette=#ffffff;#ed6a43;#183691;#795da3;#795da3;#a71d5d;#183691;#333333;#c8c8fa;#ed6a43;#183691;#795da3;#795da3;#a71d5d;#183691;#ffffff

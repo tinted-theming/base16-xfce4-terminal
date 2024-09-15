@@ -2,9 +2,9 @@
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Atelier Cave Light
+Name=base16-atelier-cave-light
 ColorForeground=#585260
 ColorBackground=#efecf4
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#efecf4;#be4678;#2a9292;#a06e3b;#576ddb;#955ae7;#398bc6;#585260;#7e7887;#be4678;#2a9292;#a06e3b;#576ddb;#955ae7;#398bc6;#19171c
+ColorPalette=#efecf4;#be4678;#2a9292;#a06e3b;#576ddb;#955ae7;#398bc6;#585260;#8b8792;#be4678;#2a9292;#a06e3b;#576ddb;#955ae7;#398bc6;#19171c

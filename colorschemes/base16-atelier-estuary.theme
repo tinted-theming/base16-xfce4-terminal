@@ -2,9 +2,9 @@
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Atelier Estuary
+Name=base16-atelier-estuary
 ColorForeground=#929181
 ColorBackground=#22221b
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#22221b;#ba6236;#7d9726;#a5980d;#36a166;#5f9182;#5b9d48;#929181;#6c6b5a;#ba6236;#7d9726;#a5980d;#36a166;#5f9182;#5b9d48;#f4f3ec
+ColorPalette=#22221b;#ba6236;#7d9726;#a5980d;#36a166;#5f9182;#5b9d48;#929181;#5f5e4e;#ba6236;#7d9726;#a5980d;#36a166;#5f9182;#5b9d48;#f4f3ec

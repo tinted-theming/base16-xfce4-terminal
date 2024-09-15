@@ -2,9 +2,9 @@
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Atelier Savanna
+Name=base16-atelier-savanna
 ColorForeground=#87928a
 ColorBackground=#171c19
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#171c19;#b16139;#489963;#a07e3b;#478c90;#55859b;#1c9aa0;#87928a;#5f6d64;#b16139;#489963;#a07e3b;#478c90;#55859b;#1c9aa0;#ecf4ee
+ColorPalette=#171c19;#b16139;#489963;#a07e3b;#478c90;#55859b;#1c9aa0;#87928a;#526057;#b16139;#489963;#a07e3b;#478c90;#55859b;#1c9aa0;#ecf4ee

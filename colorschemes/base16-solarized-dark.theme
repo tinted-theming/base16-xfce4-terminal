@@ -2,9 +2,9 @@
 # Scheme author: Ethan Schoonover (modified by aramisgithub)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Solarized Dark
+Name=base16-solarized-dark
 ColorForeground=#93a1a1
 ColorBackground=#002b36
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#002b36;#dc322f;#859900;#b58900;#268bd2;#6c71c4;#2aa198;#93a1a1;#657b83;#dc322f;#859900;#b58900;#268bd2;#6c71c4;#2aa198;#fdf6e3
+ColorPalette=#002b36;#dc322f;#859900;#b58900;#268bd2;#6c71c4;#2aa198;#93a1a1;#586e75;#dc322f;#859900;#b58900;#268bd2;#6c71c4;#2aa198;#fdf6e3
