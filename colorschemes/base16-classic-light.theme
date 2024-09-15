@@ -1,6 +1,6 @@
 # Scheme name: Classic Light
 # Scheme author: Jason Heeris (http://heeris.id.au)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-classic-light
 ColorForeground=#303030

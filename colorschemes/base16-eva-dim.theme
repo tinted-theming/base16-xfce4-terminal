@@ -1,6 +1,6 @@
 # Scheme name: Eva Dim
 # Scheme author: kjakapat (https://github.com/kjakapat)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-eva-dim
 ColorForeground=#9fa2a6

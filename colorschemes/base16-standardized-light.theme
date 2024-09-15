@@ -1,6 +1,6 @@
 # Scheme name: standardized-light
 # Scheme author: ali (https://github.com/ali-githb/base16-standardized-scheme)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-standardized-light
 ColorForeground=#444444

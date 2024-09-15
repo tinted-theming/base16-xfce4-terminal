@@ -1,6 +1,6 @@
 # Scheme name: Railscasts
 # Scheme author: Ryan Bates (http://railscasts.com)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-railscasts
 ColorForeground=#e6e1dc
