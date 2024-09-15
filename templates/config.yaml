@@ -1,6 +1,14 @@
-default:
+base16:
     extension: .theme
     output: colorschemes
+    supported-systems: [base16]
+
 default.16:
     extension: .16.theme
     output: colorschemes
+    supported-systems: [base16]
+
+base24:
+    extension: .theme
+    output: colorschemes
+    supported-systems: [base24]

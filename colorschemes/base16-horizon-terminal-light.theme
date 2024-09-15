@@ -1,10 +1,10 @@
 # Scheme name: Horizon Terminal Light
 # Scheme author: Michaël Ball (http://github.com/michael-ball/)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
-Name=Base16-Horizon Terminal Light
+Name=base16-horizon-terminal-light
 ColorForeground=#403c3d
 ColorBackground=#fdf0ed
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#fdf0ed;#e95678;#29d398;#fadad1;#26bbd9;#ee64ac;#59e1e3;#403c3d;#bdb3b1;#e95678;#29d398;#fadad1;#26bbd9;#ee64ac;#59e1e3;#201c1d
+ColorPalette=#fdf0ed;#e95678;#29d398;#fadad1;#26bbd9;#ee64ac;#59e1e3;#403c3d;#f9cbbe;#e95678;#29d398;#fadad1;#26bbd9;#ee64ac;#59e1e3;#201c1d
