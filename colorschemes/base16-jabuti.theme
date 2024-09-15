@@ -2,9 +2,9 @@
 # Scheme author: https://github.com/notusknot
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Jabuti
+Name=base16-jabuti
 ColorForeground=#c0cbe3
 ColorBackground=#292a37
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#292a37;#ec6a88;#3fdaa4;#e1c697;#3fc6de;#be95ff;#ff7eb6;#c0cbe3;#45475d;#ec6a88;#3fdaa4;#e1c697;#3fc6de;#be95ff;#ff7eb6;#ffffff
+ColorPalette=#292a37;#ec6a88;#3fdaa4;#e1c697;#3fc6de;#be95ff;#ff7eb6;#c0cbe3;#3c3e51;#ec6a88;#3fdaa4;#e1c697;#3fc6de;#be95ff;#ff7eb6;#ffffff

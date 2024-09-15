@@ -2,9 +2,9 @@
 # Scheme author: Michaël Ball
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Tokyo City Dark
+Name=base16-tokyo-city-dark
 ColorForeground=#d8e2ec
 ColorBackground=#171d23
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#171d23;#f7768e;#9ece6a;#b7c5d3;#7aa2f7;#bb9af7;#89ddff;#d8e2ec;#526270;#f7768e;#9ece6a;#b7c5d3;#7aa2f7;#bb9af7;#89ddff;#fbfbfd
+ColorPalette=#171d23;#f7768e;#9ece6a;#b7c5d3;#7aa2f7;#bb9af7;#89ddff;#d8e2ec;#28323a;#f7768e;#9ece6a;#b7c5d3;#7aa2f7;#bb9af7;#89ddff;#fbfbfd

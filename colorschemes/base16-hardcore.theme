@@ -2,9 +2,9 @@
 # Scheme author: Chris Caller
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Hardcore
+Name=base16-hardcore
 ColorForeground=#cdcdcd
 ColorBackground=#212121
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#212121;#f92672;#a6e22e;#e6db74;#66d9ef;#9e6ffe;#708387;#cdcdcd;#4a4a4a;#f92672;#a6e22e;#e6db74;#66d9ef;#9e6ffe;#708387;#ffffff
+ColorPalette=#212121;#f92672;#a6e22e;#e6db74;#66d9ef;#9e6ffe;#708387;#cdcdcd;#353535;#f92672;#a6e22e;#e6db74;#66d9ef;#9e6ffe;#708387;#ffffff

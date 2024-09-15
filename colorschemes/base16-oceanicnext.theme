@@ -2,9 +2,9 @@
 # Scheme author: https://github.com/voronianski/oceanic-next-color-scheme
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-OceanicNext
+Name=base16-oceanicnext
 ColorForeground=#c0c5ce
 ColorBackground=#1b2b34
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#1b2b34;#ec5f67;#99c794;#fac863;#6699cc;#c594c5;#5fb3b3;#c0c5ce;#65737e;#ec5f67;#99c794;#fac863;#6699cc;#c594c5;#5fb3b3;#d8dee9
+ColorPalette=#1b2b34;#ec5f67;#99c794;#fac863;#6699cc;#c594c5;#5fb3b3;#c0c5ce;#4f5b66;#ec5f67;#99c794;#fac863;#6699cc;#c594c5;#5fb3b3;#d8dee9

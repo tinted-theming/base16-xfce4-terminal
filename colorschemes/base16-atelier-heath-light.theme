@@ -2,9 +2,9 @@
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Atelier Heath Light
+Name=base16-atelier-heath-light
 ColorForeground=#695d69
 ColorBackground=#f7f3f7
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#f7f3f7;#ca402b;#918b3b;#bb8a35;#516aec;#7b59c0;#159393;#695d69;#9e8f9e;#ca402b;#918b3b;#bb8a35;#516aec;#7b59c0;#159393;#1b181b
+ColorPalette=#f7f3f7;#ca402b;#918b3b;#bb8a35;#516aec;#7b59c0;#159393;#695d69;#ab9bab;#ca402b;#918b3b;#bb8a35;#516aec;#7b59c0;#159393;#1b181b

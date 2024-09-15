@@ -2,9 +2,9 @@
 # Scheme author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-PaperColor Light
+Name=base16-papercolor-light
 ColorForeground=#444444
 ColorBackground=#eeeeee
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#eeeeee;#bcbcbc;#8700af;#d70087;#d75f00;#005faf;#d75f00;#444444;#5f8700;#bcbcbc;#8700af;#d70087;#d75f00;#005faf;#d75f00;#878787
+ColorPalette=#eeeeee;#bcbcbc;#8700af;#d70087;#d75f00;#005faf;#d75f00;#444444;#008700;#bcbcbc;#8700af;#d70087;#d75f00;#005faf;#d75f00;#878787
