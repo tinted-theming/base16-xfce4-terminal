@@ -2,9 +2,9 @@
 # Scheme author: Alex Mirrington (https://github.com/alexmirrington)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Decaf
+Name=base16-decaf
 ColorForeground=#cccccc
 ColorBackground=#2d2d2d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2d2d2d;#ff7f7b;#beda78;#ffd67c;#90bee1;#efb3f7;#bed6ff;#cccccc;#777777;#ff7f7b;#beda78;#ffd67c;#90bee1;#efb3f7;#bed6ff;#ffffff
+ColorPalette=#2d2d2d;#ff7f7b;#beda78;#ffd67c;#90bee1;#efb3f7;#bed6ff;#cccccc;#515151;#ff7f7b;#beda78;#ffd67c;#90bee1;#efb3f7;#bed6ff;#ffffff

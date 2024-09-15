@@ -2,9 +2,9 @@
 # Scheme author: Timothée Poisot (http://github.com/tpoisot)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Brewer
+Name=base16-brewer
 ColorForeground=#b7b8b9
 ColorBackground=#0c0d0e
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#0c0d0e;#e31a1c;#31a354;#dca060;#3182bd;#756bb1;#80b1d3;#b7b8b9;#737475;#e31a1c;#31a354;#dca060;#3182bd;#756bb1;#80b1d3;#fcfdfe
+ColorPalette=#0c0d0e;#e31a1c;#31a354;#dca060;#3182bd;#756bb1;#80b1d3;#b7b8b9;#515253;#e31a1c;#31a354;#dca060;#3182bd;#756bb1;#80b1d3;#fcfdfe

@@ -2,9 +2,9 @@
 # Scheme author: Chuck Harmston (https://chuck.harmston.ch)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Solar Flare Light
+Name=base16-solarflare-light
 ColorForeground=#586875
 ColorBackground=#f5f7fa
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#f5f7fa;#ef5253;#7cc844;#e4b51c;#33b5e1;#a363d5;#52cbb0;#586875;#85939e;#ef5253;#7cc844;#e4b51c;#33b5e1;#a363d5;#52cbb0;#18262f
+ColorPalette=#f5f7fa;#ef5253;#7cc844;#e4b51c;#33b5e1;#a363d5;#52cbb0;#586875;#a6afb8;#ef5253;#7cc844;#e4b51c;#33b5e1;#a363d5;#52cbb0;#18262f

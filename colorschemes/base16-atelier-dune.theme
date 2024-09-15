@@ -2,9 +2,9 @@
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Atelier Dune
+Name=base16-atelier-dune
 ColorForeground=#a6a28c
 ColorBackground=#20201d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#20201d;#d73737;#60ac39;#ae9513;#6684e1;#b854d4;#1fad83;#a6a28c;#7d7a68;#d73737;#60ac39;#ae9513;#6684e1;#b854d4;#1fad83;#fefbec
+ColorPalette=#20201d;#d73737;#60ac39;#ae9513;#6684e1;#b854d4;#1fad83;#a6a28c;#6e6b5e;#d73737;#60ac39;#ae9513;#6684e1;#b854d4;#1fad83;#fefbec

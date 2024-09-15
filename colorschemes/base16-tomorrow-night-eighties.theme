@@ -2,9 +2,9 @@
 # Scheme author: Chris Kempson (http://chriskempson.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Tomorrow Night Eighties
+Name=base16-tomorrow-night-eighties
 ColorForeground=#cccccc
 ColorBackground=#2d2d2d
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#2d2d2d;#f2777a;#99cc99;#ffcc66;#6699cc;#cc99cc;#66cccc;#cccccc;#999999;#f2777a;#99cc99;#ffcc66;#6699cc;#cc99cc;#66cccc;#ffffff
+ColorPalette=#2d2d2d;#f2777a;#99cc99;#ffcc66;#6699cc;#cc99cc;#66cccc;#cccccc;#515151;#f2777a;#99cc99;#ffcc66;#6699cc;#cc99cc;#66cccc;#ffffff

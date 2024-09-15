@@ -2,9 +2,9 @@
 # Scheme author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-tender
+Name=base16-tender
 ColorForeground=#eeeeee
 ColorBackground=#282828
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#282828;#f43753;#c9d05c;#ffc24b;#b3deef;#d3b987;#73cef4;#eeeeee;#4c4c4c;#f43753;#c9d05c;#ffc24b;#b3deef;#d3b987;#73cef4;#feffff
+ColorPalette=#282828;#f43753;#c9d05c;#ffc24b;#b3deef;#d3b987;#73cef4;#eeeeee;#484848;#f43753;#c9d05c;#ffc24b;#b3deef;#d3b987;#73cef4;#feffff

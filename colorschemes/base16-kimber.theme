@@ -2,9 +2,9 @@
 # Scheme author: Mishka Nguyen (https://github.com/akhsiM)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Kimber
+Name=base16-kimber
 ColorForeground=#dedee7
 ColorBackground=#222222
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#222222;#c88c8c;#99c899;#d8b56d;#537c9c;#86cacd;#78b4b4;#dedee7;#644646;#c88c8c;#99c899;#d8b56d;#537c9c;#86cacd;#78b4b4;#ffffe6
+ColorPalette=#222222;#c88c8c;#99c899;#d8b56d;#537c9c;#86cacd;#78b4b4;#dedee7;#555d55;#c88c8c;#99c899;#d8b56d;#537c9c;#86cacd;#78b4b4;#ffffe6

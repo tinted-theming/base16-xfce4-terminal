@@ -2,9 +2,9 @@
 # Scheme author: Fergus Collins (https://github.com/C-Fergus)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 [Scheme]
-Name=Base16-Windows 95 Light
+Name=base16-windows-95-light
 ColorForeground=#545454
 ColorBackground=#fcfcfc
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#fcfcfc;#a80000;#00a800;#a85400;#0000a8;#a800a8;#00a8a8;#545454;#a8a8a8;#a80000;#00a800;#a85400;#0000a8;#a800a8;#00a8a8;#000000
+ColorPalette=#fcfcfc;#a80000;#00a800;#a85400;#0000a8;#a800a8;#00a8a8;#545454;#c4c4c4;#a80000;#00a800;#a85400;#0000a8;#a800a8;#00a8a8;#000000
