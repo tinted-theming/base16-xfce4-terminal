@@ -1,6 +1,6 @@
 # Scheme name: Terracotta Dark
 # Scheme author: Alexander Rossell Hayes (https://github.com/rossellhayes)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-terracotta-dark
 ColorForeground=#b8a59d

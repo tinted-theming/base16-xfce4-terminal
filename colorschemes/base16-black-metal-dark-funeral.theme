@@ -1,6 +1,6 @@
 # Scheme name: Black Metal (Dark Funeral)
 # Scheme author: metalelf0 (https://github.com/metalelf0)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-black-metal-dark-funeral
 ColorForeground=#c1c1c1

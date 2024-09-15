@@ -1,6 +1,6 @@
 # Scheme name: Windows 95 Light
 # Scheme author: Fergus Collins (https://github.com/C-Fergus)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-windows-95-light
 ColorForeground=#545454

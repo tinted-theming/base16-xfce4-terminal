@@ -1,6 +1,6 @@
 # Scheme name: Measured Light
 # Scheme author: Measured (https://measured.co)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-measured-light
 ColorForeground=#292929
