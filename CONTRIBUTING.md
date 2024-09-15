@@ -13,13 +13,13 @@ automatically.
 ### Usage for template editing
 
 1. Install [tinted-builder-rust]
-1. `tinted-builder-rust build path/to/base16-xfce4-terminal`
+1. `tinted-builder-rust build path/to/tinted-xfce4-terminal`
 
 ### Usage for adding or editing a colorscheme
 
-1. Clone base16-xfce4-terminal
+1. Clone tinted-xfce4-terminal
 1. Install [tinted-builder-rust]
-1. Execute `tinted-builder-rust build path/to/base16-xfce4-terminal`
+1. Execute `tinted-builder-rust build path/to/tinted-xfce4-terminal`
 
 If you have more questions about [tinted-builder-rust], have a look at
 the information on the GitHub page.

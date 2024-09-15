@@ -1,6 +1,6 @@
 # Scheme name: Mexico Light
 # Scheme author: Sheldon Johnson
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-mexico-light
 ColorForeground=#383838

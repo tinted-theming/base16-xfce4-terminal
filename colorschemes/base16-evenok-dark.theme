@@ -1,6 +1,6 @@
 # Scheme name: Evenok Dark
 # Scheme author: Mekeor Melire
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-evenok-dark
 ColorForeground=#d0d0d0

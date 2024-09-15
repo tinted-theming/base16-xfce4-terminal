@@ -1,6 +1,6 @@
 # Scheme name: Aztec
 # Scheme author: TheNeverMan (github.com/TheNeverMan)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-aztec
 ColorForeground=#ffda51

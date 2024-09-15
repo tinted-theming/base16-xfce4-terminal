@@ -1,6 +1,6 @@
 # Scheme name: Unikitty Reversible
 # Scheme author: Josh W Lewis (@joshwlewis)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-unikitty-reversible
 ColorForeground=#c3c2c4

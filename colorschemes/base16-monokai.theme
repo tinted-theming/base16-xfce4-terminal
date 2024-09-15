@@ -1,6 +1,6 @@
 # Scheme name: Monokai
 # Scheme author: Wimer Hazenberg (http://www.monokai.nl)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-monokai
 ColorForeground=#f8f8f2

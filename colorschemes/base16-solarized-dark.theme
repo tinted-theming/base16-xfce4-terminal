@@ -1,6 +1,6 @@
 # Scheme name: Solarized Dark
 # Scheme author: Ethan Schoonover (modified by aramisgithub)
-# Template author: Tinted Theming (https://github.com/tinted-theming)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base16-solarized-dark
 ColorForeground=#93a1a1
